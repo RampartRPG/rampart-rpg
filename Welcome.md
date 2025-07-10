@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Rampart RPG is a tabletop roleplaying game ideal for 3-5 players. It requires a GM (game master) who creates a story and moderates the game.
 
