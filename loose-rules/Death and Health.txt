@@ -56,9 +56,6 @@ If the [First Aid Save] is a:
 -Failure: The target regains no health.
 -Critical Failure: Target gains +1 Stress from botched medicine.
 
-
-
-
 When using healing sources on a character which has the {Dying} condition they will gain 1/2 of the health rolled and lose the condition.
 
 List of Scars D20:
