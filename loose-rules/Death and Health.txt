@@ -1,0 +1,86 @@
+Death and Health
+
+The max [HP] of a character is calculated via this formula: 10 + [CON] at level 1.
+As they progress with each level they add: 2D6 + [CON] to their max HP.
+
+When a character's [HP] is reduced to 0, they fall {Unconscious} and start gain the {Dying} condition.
+During the {Dying} condition the only action the character can take is to (Prevent Death).
+The (Prevent Death)(3) action makes the character roll a [Death Save]. [Death Save] = D20 + [CON] with DC10.
+
+If the [Death Save] is a:
+-Critical Success: The character loses both the {Dying} and {Unconscious} conditions and get up with 1 [HP].
+-Success: The character loses the {Dying} condition but remains {Unconscious} until healed.
+-Failure: The character gains one (Death Marker) and the conditions remain as they are.
+-Critical Failure: The character gains two (Death Marker)s and the conditions remain as they are.
+
+When the amount of (Death Marker)s a character has reaches 2 they gain a permanent debuff called a {Scar}.
+(Scar)s manifest in a lot of ways and can only be healed through extensive care and long days of rest.
+The exact mechanics of healing a (Scar) are left open to interpretation for the GM.
+To gain a (Scar) the character rolls on a list of scars which can be found at the end of the page.
+
+Another way of obtaining (Scar)s is to take a (Severe Hit).
+A (Severe Hit) is any attack which reduces your [HP] by (3/4) * your [HP] in a single action.
+When a character is takes a (Severe Hit) they have to roll a [Scar Save]. [Scar Save] = D20 + [CON] with DC12.
+
+If the [Scar Save] is a:
+-Critical Success: The character gains no scars and increases their max HP by 1. What doesn't kill you makes you stronger.
+-Success: The character gains no scars and is considered lucky.
+-Failure: The character gains a (Scar) and rolls on the list of scars.
+-Critical Failure: The character gains a (Scar), rolls on the list of scars and decrease their max HP by 1.
+When a character accumulates 3 Scares their character breaks physically, they either die or retire from adventuring.
+
+When the amount of (Death Marker)s a character has reaches 3 they breathe their final breath and their life ends.
+There are various ways to bring back characters from the dead but they are mostly left open to interpretation for the GM.
+
+Replenishing [HP] can be done via various means including: Abilities, Spells, Items, Potions etc.
+Every healing source has to have both a constant and a dice attached to it.
+
+Natural rest is the most common way of replenishing [HP]. The amount and complexities are below:
+-Short Rest	30 Minutes - 2 Hours → Regain 2d6 + [CON] [HP]
+-Long Rest	6 - 10 Hours → Regain Regain Max [HP]. Remove 1d4 Stress points.
+
+List of Standard Healing Potions:
+-Potion of Lesser Healing	Heals 2d6 + 2 [HP]. Costs 25 GP
+-Potion of Moderate Healing	Heals 4d6 + 3 [HP]. Costs 60 GP
+-Potion of Greater Healing	Heals 6d6 + 4 [HP]. Costs 100 GP
+-Potion of Revitalization	Heals 4d6 + 3 [HP] and reduces stress to 0. Costs 120 GP.
+-Potion of Calming		Heals 1d6 + 2 [HP] and reduces stress by 2 points. 80 GP.
+
+The (First Aid)(1) action can be taken during or out of combat to heal without spells, abilities or potions.
+This action requires the character using it to have a medical kit in one of their hands. 
+A medical kit can be crafted with bandages, herbs, and other appropiate items and its used up when using the (First Aid) action.
+When using the (First Aid) action the character rolls a [First Aid Save]. [First Aid Save] = D20 + [WIS]/[INT] + (Appropiate Skill) with DC12.
+If the [First Aid Save] is a:
+-Critical Success: The target regains 2d6 + [WIS]/[INT].
+-Success: The target regains 1d6 + [WIS]/[INT].
+-Failure: The target regains no health.
+-Critical Failure: Target gains +1 Stress from botched medicine.
+
+
+
+
+When using healing sources on a character which has the {Dying} condition they will gain 1/2 of the health rolled and lose the condition.
+
+List of Scars D20:
+
+1	Twisted Limb		–2 to [STR] or [DEX] (your choice), can’t use the (Dash) or (Climb) action halving their bonus movement.
+2	Cracked Skull		–2 to [INT], you suffer disadvantage on checks related to memory.
+3	Shattered Hand		Can no longer wield two-handed weapons or use somatic spell gestures.
+4	Blind in One Eye	–2 to ranged attacks and perception involving sight.
+5	Collapsed Lung		–1 Action on your first turn in combat
+6	Disfigured Face		–2 to [CHA], NPCs react with fear or pity.
+7	Nightmare Echoes	+1 Stress at dawn every day, can't benefit from a full rest without a DC10 [WIS] save.
+8	Phantom Pain		Whenever you use the affected body part, take 1 Stress
+9	Deafened		Auto-fail checks relying on hearing, social checks suffer –1
+11	Seizures		When reduced to 1/4 HP or lower, make [WIS] save or lose next action.
+12	Dark Resilience		Gain +1 Max [HP], but you take –1 [HP] every time you level up.
+13	Iron Will		+2 [WIS], but –1 to all healing received — your mind grew hard, your body cold
+14	Ghost-Like Stare	–2 [CHA], but gain advantage on checks involving intimidation.
+15	Mangled Leg		–10ft [SPD]; Disadvantage on balance, jumping, or climbing checks.
+16	Amputated Finger(s)	Can’t use fine tools or reload certain weapons, disadvantage on checks involving your fingers.
+17	Rib Fragment		On critical fails in combat, take 1d4 self-damage as the rib shifts inward.
+18	Shattered Teeth		–2 [CHA] (smile ruined).
+19	Battle Scar		+2 [CHA], you look like Gerald.
+20	No Scar			You avoid it with the skin of your teeth.
+
+
