@@ -50,6 +50,7 @@ STRESS = 4 + WILL + LV.
 
 ^^^ for sure different abilities need to have different stress effects based on caster's level and also the strength of the spell, also what if there was a way to level up spells instead of getting something new each time?
 ##btw we should do a trauma list i think or talk about how trauma works in general cause i still dont know what types of trauma there are etc.
+### We need like more than one list for traumas since stress increase can has a lot of ways of occuring. Fear, Magic, General Stress etc. We can make a d12 list for each of these types.
 
 SPEED = 25ft + FINESSE * 5ft.
 
@@ -57,6 +58,7 @@ SPEED = 25ft + FINESSE * 5ft.
 # It also gives more variety in combat.
 # Also I'm not too sure if we're gonna go with feets for measurement and square grids but we can adjust this to that easily.
 ## we can just say 1 grid too (instead of 5ft) if that works
+### Makes sense, what about switching to a hex based grid tho? Just a thought
 
 AC = Armor + FINESSE with the Armor's FINESSE CAP in mind.
 
@@ -71,13 +73,13 @@ For initiative I don't think it needs to be a separate stat lets just roll a FIN
 # just decided by talking.
 
 ##great idea, it can be used like in turn based rpgs where you can rearrange your group to make the char. with buff spells go first for example
+### Yeah that was my idea also helps with tracking the play order.
 
 # There is also something called popcorn initiative which starts off same as group initiative but instead of making the order themselves combat starts with the highest FINESSE holder and when they finish their
 # turn they get to choose who goes next and this repeats with each player until their team has all acted.
 
 ## first option is better imo but we should check how that will work with boss battles since theres no enemy team there (1 big monster)
-
-Give me your thoughts so we can refine it!
+### Well teams can consist of 1 person no? xD
 
 
 
