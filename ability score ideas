@@ -48,11 +48,15 @@ STRESS = 4 + WILL + LV.
 # By level 5 or 6 they dont really have to worry about their Stress cap which is the ultimate limiter on their magic.
 # We might be able to prevent this by making it so that Upgraded abilities cost more stress and letting every magical ability cost at least 1 stress.
 
+^^^ for sure different abilities need to have different stress effects based on caster's level and also the strength of the spell, also what if there was a way to level up spells instead of getting something new each time?
+##btw we should do a trauma list i think or talk about how trauma works in general cause i still dont know what types of trauma there are etc.
+
 SPEED = 25ft + FINESSE * 5ft.
 
 # Really unsure of this one, but it gives finesse more use so I think it could be cool.
 # It also gives more variety in combat.
 # Also I'm not too sure if we're gonna go with feets for measurement and square grids but we can adjust this to that easily.
+## we can just say 1 grid too (instead of 5ft) if that works
 
 AC = Armor + FINESSE with the Armor's FINESSE CAP in mind.
 
@@ -60,12 +64,18 @@ AC = Armor + FINESSE with the Armor's FINESSE CAP in mind.
 # And light armor could have higher FINESSE CAPs or no CAPs at all.
 # This naturally leads to players with high FINESSE wearing lighter armor.
 # We might split AC into Damage Reduction and Evasiveness later but I think Kerem's Idea about hitting if you miss the AC by a few points is legitimately better. I'll make a page called glancing hits about it.
+##go for it
 
 For initiative I don't think it needs to be a separate stat lets just roll a FINESSE save instead.
 # Also I' having wild ideas about initiative. Group initiative is one I'm quite fond of where the player with the highest FINESSE on both teams rolls and that decides which team goes first and the order within the teams is
 # just decided by talking.
+
+##great idea, it can be used like in turn based rpgs where you can rearrange your group to make the char. with buff spells go first for example
+
 # There is also something called popcorn initiative which starts off same as group initiative but instead of making the order themselves combat starts with the highest FINESSE holder and when they finish their
-# turn they get to choose who goes next and this repeats with each player until their team has all acted. 
+# turn they get to choose who goes next and this repeats with each player until their team has all acted.
+
+## first option is better imo but we should check how that will work with boss battles since theres no enemy team there (1 big monster)
 
 Give me your thoughts so we can refine it!
 
