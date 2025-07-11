@@ -1,11 +1,11 @@
-# I've been thinking about getting rid of the 6 main ability scores STR, DEX, CON, WIS, INT, CHA.
+  I've been thinking about getting rid of the 6 main ability scores STR, DEX, CON, WIS, INT, CHA.
 
 As is, leaving INT and WIS as separate stats doesn't really accomplish much as we don't have classes and thus casting spells / "abilities" doesn't have to be tied with INT or WIS you can just pick and choose.
 In these secnarios CHA clearly becomes the superior stat is its helpful for social situations. WIS and INT are still "good enough" on their own especially WIS with its contribution to the STRESS system.
 
 I have 2 different stat systems to match this disperancy and differentiate RampartRPG from D&D 5e and Pathfinder 2e.
 
-# 1) 4 Core Stats:
+  1) 4 Core Stats:
 
 MIGHT [MGT]: Repressents physical power and is a combination of STR and CON. Serving as contributers to both melee damage and HP.
 FINESSE / AGILITY [FIN/AGI]: Repressents speed, quick hand movements and percision, standin for DEX. It helps with Initiative, Ranged attacks, and finesse weapons.
@@ -14,9 +14,7 @@ PRESENCE [PRS]: Repressents social skills, manipulation, intimidation and barter
 
 This solves the magic problem by eliminating unnecessary baggage, Also in this system PRS can't be used as the magic stat with WIL as the clear magic stat.
 
-##really good idea as the magic system in dnd is insanely weird and pretty op without many downsides (esp. cha casters)
-
-# 2) 5 Core Stats:
+  2) 5 Core Stats:
 
 POWER: Repressents physical strength and brute force. Standin for STR. 
 FINESSE / AGILITY: Repressents speed, quick hand movements and percision, standin for DEX.
@@ -24,9 +22,56 @@ ENDURANCE: Repressents health, physical fitness and sheer bulk. Standin for CON.
 WILL: Repressents reesolve, intelligence and perception. A combination of WIS and INT.
 PRESENCE: Repressents social skills, manipulation, intimidation and bartering. Standin for CHA.
 
-This system is much of the same but it separates MGT into POW and END, I'm not too sure if this is good or not as martial characters (there is no martial / caster split here as there are no classes but character themes remain) might need power and endurance
-to be a single stat if they want to be viable against caster characters. The ability system lends itself to giving casters an edge as the cost of spells is entirely dictated by players and the GM. 
+This system is much of the same but it separates MGT into POW and END, I'm not too sure if this is good or not as martial characters (there is no martial / caster split here as there are no classes but character
+themes remain) might need power and endurance to be a single stat if they want to be viable against caster characters. The ability system lends itself to giving casters an edge as the cost of spells is
+entirely dictated by players and the GM. 
 
 ##con being separated or not is a tough call. for now i think i'll go with the 1st option but lets talk more in detail in vc. and depending on the option we pick here i think we'll need to change the lvling system accordingly.
+### Noted
 
-I'd like to hear your thoughts.
+There has to be a list of derived stats for either of these systems mainly. HP, STRESS, SPEED, AC.
+
+  Derived Stats of Option 1:
+
+HP = 8 + MIGHT at 1st level, gain 2d6 or the AVG 7 + MIGHT on every level up.
+
+# I think this is a good balance, its not too swingy or too predictable. The lowest HP a player can start with is 7 which means they can handle about 2 attacks from lv1 enemies.
+# And the highest is 12 which really just gives them 1 more hit they can tank but by the end game the lowest MIGHT player will have 61 HP on AVG as opposed to the 111 of the highest MIGHT player.
+# The actual lowest *possible* HP for a level 10 character is 16 which is lowkey insane but at that point they have to roll two 1s on EVERY 2d6 they roll 2*10^-12 % chance of happening.
+# The actual highest *possible* HP for a level 10 character is 156 with the same chance of happening as the lowest one.
+
+STRESS = 4 + WILL + LV.
+
+# I think this too is a good idea I had ideas about doing it like HP where your WILL modifier increases your stress by some modifier every level up but that just creates a lot more math.
+# It can be argued that this is too formulaic and doesnt let casters scale fast enough but I'm not too sure.
+# A caster with +3 WIll starts the game with 8 STRESS they'll stress by level will roughly follow this: 8, 10, 11, 12, 13, 14, 15, 16, 17, 19.
+# By level 5 or 6 they dont really have to worry about their Stress cap which is the ultimate limiter on their magic.
+# We might be able to prevent this by making it so that Upgraded abilities cost more stress and letting every magical ability cost at least 1 stress.
+
+SPEED = 25ft + FINESSE * 5ft.
+
+# Really unsure of this one, but it gives finesse more use so I think it could be cool.
+# It also gives more variety in combat.
+# Also I'm not too sure if we're gonna go with feets for measurement and square grids but we can adjust this to that easily.
+
+AC = Armor + FINESSE with the Armor's FINESSE CAP in mind.
+
+# Heavy armors can have a FINESSE CAP of 0 effectively negating any benefit FINESSE would give you.
+# And light armor could have higher FINESSE CAPs or no CAPs at all.
+# This naturally leads to players with high FINESSE wearing lighter armor.
+# We might split AC into Damage Reduction and Evasiveness later but I think Kerem's Idea about hitting if you miss the AC by a few points is legitimately better. I'll make a page called glancing hits about it.
+
+For initiative I don't think it needs to be a separate stat lets just roll a FINESSE save instead.
+# Also I' having wild ideas about initiative. Group initiative is one I'm quite fond of where the player with the highest FINESSE on both teams rolls and that decides which team goes first and the order within the teams is
+# just decided by talking.
+# There is also something called popcorn initiative which starts off same as group initiative but instead of making the order themselves combat starts with the highest FINESSE holder and when they finish their
+# turn they get to choose who goes next and this repeats with each player until their team has all acted. 
+
+Give me your thoughts so we can refine it!
+
+
+
+
+
+
+
