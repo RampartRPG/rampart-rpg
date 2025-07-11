@@ -1,0 +1,18 @@
+Glancing Hit
+
+In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or FIN) against a target's AC (Armor Class).
+These rolls can either result in a CRIT FAIL, FAIL, SUCCESS, CRIT SUCCESS just like any other roll:
+
+# Critical Fail: You miss your attack and either gain 1 point of stress or harm yourself or another player depending on the context. // I'll elaborate later
+# Fail: You miss your attack.
+# Success: You succeed in your attack and roll for damage. Which is calculated as Weapon Dice + MGT or FIN.
+# Critical Success: You succeed in your attack and roll for damage as usual but you deal double that.
+
+Glancing hits are a special case to this format. If the Attack Roll missed the target's AC within 2 points.
+Instead of failing they get a "partial success" called a Glancing Hit:
+
+# Glancing Hit: You partially succeed in your attack and roll for damage but you have to halve it.
+
+// This prevents fights with High AC enemies from becoming boring, repetitive and sluggish. Sometimes barely missing a shot feels devastating but here it feels dramatic.
+// This might help us make combat more creative, with certain weapon tags or actions letting you get full damage on a Glancing Hit or increase the chance of a glancing hit happening by making it 3 points instead of 2.
+// Missing an attack never feels good and it has little effect on the narrative of the game so I feel this is a good addition.
