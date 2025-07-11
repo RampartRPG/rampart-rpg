@@ -1,0 +1,31 @@
+# Stress and Trauma
+
+Stress measures the physical and mental strain put on your character. Your Stress Threshold ST which is your character's capacity of enduring stress, its calculated as:
+ST = 4 + WIL + LV.
+
+When your character encounters stressful situations they gain some amount of stress. Some examples of stress situations are:
+
+# Using magical or unstable abilities.
+# Failing a save against fear, horror, or mind control.
+# Enduring traumatic or exhausting events.
+# Taking damage greater than or equal to your MAX HP.
+
+There are several ways of reducing your stress which are:
+
+# Resting in unsafe inadequate conditions removes 2 points of stress.
+# Resting in safe enviroment reduces your stress to 0.
+# Calming activities and spells may reduce few points of stress.
+
+When your stress reaches your Stress Threshold you have to make a Trauma Saving Throw, Roll a DC15 WIL save and on a:
+
+# Critical Success: Reduce your stress by 3 points.
+# Success: Reduce your stress by 1 point.
+# Failure: Gain a Trauma and your stress is reduced to 0.
+# Critical Failure: Gain a Trauma, your stress is reduced to 0 and your character becomes unplayable for your next turn.
+
+Traumas repressent semi-permanent mental scars serving as nerfs which you'll character have to either outgrow or embrace at later levels.
+// I'll add a list of traumas later on depending on types.
+If your character accumilates 3 traumas and on their next failed trauma saving throw their character mentally breaks and becomes unplayable either having to retire from adventuring or become an NPC.
+
+Healing a trauma requires your character to level up to level 5 at which point they gain the ability to either remove one trauma or scare or "evolve" them.
+// More on evolution later on.
