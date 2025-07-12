@@ -1,0 +1,58 @@
+Character Sheet
+
+# Basic Info
+- Name
+- Species:
+- Background:
+- Level: 
+
+# Attributes
+// The Brackets is for modifiers and paranthesis are for the actual stat.
+- Might: 	[]()
+- Finesse: 	[]()
+- Will: 	[]()
+- Presence: 	[]()
+
+# Traits
+- Racial Trait:
+- Background Trait:
+
+# Healh
+// The brackets are small circles or checkboxes here you fill as you go on.
+- HP:		- / -
+- ST:		- / -
+- Traumas:	[][][]
+- Scars: 	[][][]
+- Deatg Marks: [][][]
+
+# Combat
+- Armor Class:
+- Equiped Armor:
+- Speed:
+- Right Hand Slot:
+- Left Hand Slot:
+
+# Abilities
+// An area for 5 of these
+- Name:
+- Type (Active, Passive, Triggered):
+- Effect:
+- Cost/Trigger/Cooldown:
+
+# Skills
+// The checkbox is for if its mastered or not and the dash is for the bonus.
+- Skill 1: [] _
+- Skill 2: [] _
+- Skill 3: [] _
+- Skill 4: [] _
+- Skill 5: [] _
+
+# Attacks and Manevuers
+// Providing a list of attacks makes combat easier.
+// Manevuers is what I used to call weapon actions.
+- List of attacks.
+
+# Equipment
+- Standard Equipment
+- Gold
+
