@@ -1,0 +1,36 @@
+Actions in Combat
+
+  Standard Actions
+# Strike (1): Make one melee or ranged weapon attack.
+// Make one melee or ranged attack with your weapon's stats. Roll a d20 + MGT or FIN vs target's AC. Apply damage on success.
+# Move (1): Move up to your speed.
+// Move up to your character’s speed. This can be broken up before and after actions unless otherwise stated.
+# Cast (1-3): Use a spell or active ability.
+// Use one of your abilities or a spell. 
+# Interact (1): Draw or stow a weapon, open door, pick up item, etc.
+// Draw or stow a weapon, interact with the enviroment or throw an item.
+# Defend (1): You brace yourself for a hit.
+// Raise your AC by +1 until your next turn.
+# Ready (1): Prepare an action to trigger later.
+// Prepare an action to trigger later in response to a specific condition being met at any point in this round of combat.
+# Use Item (1): Use or activate an item in your inventory.
+// Use an item in your inventory, drink a potion, use a scroll.
+# Search (1): Actively look for traps, secret doors, or weaknesses.
+// Roll a WIL saving throw with DC appropriate for the situation. You discover something about the enviroment or the enemy.
+# Aid (1): Help an ally with an action whose turn is right after yours.
+// Adds +2 to the next roll of your ally, requires clear communication or physical interaction with the ally.
+# Take Cover (1): Attempt to take cover or conceal yourself.
+// Attempt to gain cover with an object increasing your AC against enemies who lose their sight of you by +2.
+
+
+  Battle Actions
+# Manevuer (1-3): Perform a special melee or ranged weapon attack unique to a weapon..
+# Disengage (2): Move without provoking opportunity attacks.
+# Dash (2): Move double your speed this turn.
+# Grapple (2): Attempt to grapple an adjacent opponent.
+# Aim (1): Gain a +3 to your next ranged attack.
+# Feint (1): Attempt to trick an opponent lowering their AC.
+# Taunt (1): Attempt to focus the attention of the enemy on yourself.
+# Disarm (2): Attempt to make your enemy drop their weapon.
+# Push (1): Attempt to push an enemy away or drop them on the ground.
+
