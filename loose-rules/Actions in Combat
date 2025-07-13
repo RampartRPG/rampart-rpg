@@ -1,4 +1,4 @@
-Actions in Combat
+    Actions in Combat
 
   Standard Actions
 # Strike (1): Make one melee or ranged weapon attack.
@@ -24,13 +24,22 @@ Actions in Combat
 
 
   Battle Actions
-# Manevuer (1-3): Perform a special melee or ranged weapon attack unique to a weapon..
+# Manevuer (1-3): Perform a special melee or ranged weapon attack unique to a weapon.
+// Action cost and other special interactions vary.
 # Disengage (2): Move without provoking opportunity attacks.
+// Move half your speed without provoking attacks of opportunity.
 # Dash (2): Move double your speed this turn.
+// Move double your regular speed this turn, disables the move action on this turn.
 # Grapple (2): Attempt to grapple an adjacent opponent.
-# Aim (1): Gain a +3 to your next ranged attack.
+// Roll a MGT check against their MGT, on a success the target is (restrained) until your next turn.
+# Aim (1): Take aim with your ranged weapon.
+// Gain a +3 to your next attack roll with a ranged weapon.
 # Feint (1): Attempt to trick an opponent lowering their AC.
+// Roll a FIN check against their WIL, on a success the target's AC is lowered by -2 for melee attacks until your next turn.
 # Taunt (1): Attempt to focus the attention of the enemy on yourself.
+// Roll a PRS check against their WIL, on a success the target will focus their attention on you until your next turn.
 # Disarm (2): Attempt to make your enemy drop their weapon.
+// Roll a FIN check against their FIN, on a success the target drops one of their weapons to the ground.
 # Push (1): Attempt to push an enemy away or drop them on the ground.
+// Roll a MGT check against their MGT, on a success the target is pushed away 5ft.
 
