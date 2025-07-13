@@ -3,7 +3,7 @@ Glancing Hits and Attacks of Opportunity.
 In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or FIN) against a target's AC (Armor Class).
 These rolls can either result in a CRIT FAIL, FAIL, SUCCESS, CRIT SUCCESS just like any other roll:
 
-# Critical Fail: You miss your attack and your target gets a trigger for an attack of opportunity
+# Critical Fail: You miss your attack and your target gets an Attack of Opporunity against you.
 # Fail: You miss your attack.
 # Success: You succeed in your attack and roll for damage. Which is calculated as Weapon Dice + MGT or FIN.
 # Critical Success: You succeed in your attack and roll for damage as usual but you get to choose either doubling that damage or applying the bleeding condition to the enemy.
@@ -20,7 +20,8 @@ If the Attack Roll missed the target's AC within 2 points. Instead of failing th
 Attacks of Opportunity are a special type of attack performed outside of the usual turn order. They require a (trigger) to occur for them to become usable.
 When another character provokes a trigger, your character can perform an Attack of Opportunity against them with a regular attack and damage roll. These triggers include:
 
-# Trying to move outside of a character's melee range.
-# Critically failing an attack roll.
+# Trying to move outside of a character's melee range without using the disengage action.
+# Critically failing an attack roll against a character.
+# Trying to attack a character with a ranged weapon within their melee range.
 
 
