@@ -6,7 +6,7 @@ These rolls can either result in a CRIT FAIL, FAIL, SUCCESS, CRIT SUCCESS just l
 # Critical Fail: You miss your attack and your target gets to make a Critical Reversal attack on you.
 # Fail: You miss your attack.
 # Success: You succeed in your attack and roll for damage. Which is calculated as Weapon Dice + MGT or FIN.
-# Critical Success: You succeed in your attack and roll for damage as usual but you deal double that.
+# Critical Success: You succeed in your attack and roll for damage as usual but you get to choose either doubling that damage or applying the bleeding condition to the enemy.
 
 Glancing hits and Critical Reversals are special cases to this format. 
 
