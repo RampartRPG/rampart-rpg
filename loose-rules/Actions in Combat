@@ -22,7 +22,6 @@
 # Take Cover (1): Attempt to take cover or conceal yourself.
 // Attempt to gain cover with an object increasing your AC against enemies who lose their sight of you by +2.
 
-
   Battle Actions
 # Manevuer (1-3): Perform a special melee or ranged weapon attack unique to a weapon.
 // Action cost and other special interactions vary.
@@ -42,4 +41,5 @@
 // Roll a FIN check against their FIN, on a success the target drops one of their weapons to the ground.
 # Push (1): Attempt to push an enemy away or drop them on the ground.
 // Roll a MGT check against their MGT, on a success the target is pushed away 5ft.
+
 
