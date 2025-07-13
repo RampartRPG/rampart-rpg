@@ -1,0 +1,36 @@
+  Conditions
+
+Conditions are a special type of effect applied to characters for some duration of time.
+
+[Incapacitated]
+# Unconscious: Unconscious characters can't use any actions, and is completely unaware of their surroundings.
+# Dying: Dying characters can only perform a single action: (Prevent Death).
+
+[Physical]
+# Slowed: Slowed characters can only take 2 actions in their turns instead of 3 and their SPEED is halved.
+# Blinded: Blinded characters can't rely on their sight for any checks, and gain a -4 to all attack rolls.
+# Deafened: Defeaned characters can't rely on their hearing for any checks and gain a -1 to their AC.
+# Restrained: Restrained characters can't use the move, dash or disengage actions.
+# Bleeding: Bleeding characters take 1d4 damage at the start of their turns and gain a -2 to their MGT based rolls.
+# Poisoned: Poisoned characters take 1d4 damage at the start of their turns and can't heal by any means.
+# Burning: Burning characters take 1d4 damage at the start of their turns and gain a -1 to their AC.
+# Frozen: Frozen characters take 1d4 damage at the start of their turns and can only perform 2 actions.
+# Shocked: Shocked characters take 1d4 damage at the start of their turns and gain a -1 to all rolls.
+
+[Mental]
+# Charmed: Charmed characters can't attack or bring harm to the one who charmed them.
+# Intimidated: Intimidated characters can't move towards the source of their fear.
+# Enraged: Enraged characters gain a -3 to their attack rolls but a +3 to their damage rolls.
+# Taunted: Taunted characters can't attack any other character than the one who taunted them.
+
+All conditions by default last for 3 turns unless stated otherwise. 
+In order to lose a condition earlier than that characters have to use the Recover action:
+
+# Recover (2): You try to pull yourself together in order to lose one condition. The recover action will involve different saving throws
+depending on the type of condition you're trying to lose.
+- Physical: Roll a DC10 MGT save and on a success get rid of the condition.
+- Mental: Roll a DC10 WIL save and on a success get rid of the condition.
+
+// Incapacitated conditions can't be removed normally and don't end after 3 turns.
+// Removing the dying condition requires specific details mentioned in Death and Health.
+
