@@ -1,0 +1,23 @@
+In RampartRPG the core of character creation is the ability system. Each player gets to pick from a list or create their own abilities, this allows for the system to be classless yet still have meaningful
+differences between characters. It also allows for immense player freedom unlike most systems.
+
+These abilities can be grouped into three types:
+# Physical: Physical abilities are any ability which makes no use of anything other than your own body.
+# Utility: Utility abilities are abilities which don't fit into the magical or physical category.
+# Magical: Magical abilities are directly tied to supernatural powers and the arcane.
+
+There is a clear mechanical difference between the design of Physical / Utility abilities and Magical abilities that being:
+# Magical abilities need to have a stress cost attached to them.
+# Magical abilities have a chance of inflicting stress if used without magical conduits.
+# Magical abilities are strictly tied to the WILL attribute.
+# Magical abilities use the Cast action.
+
+Any character can create or pick a magical ability but they'll be upheld to these rules. For example a character which broadly feels like a brawler can pick up a magical ability but they'll still have a
+chance to gain stress from it if they use it without a magical conduit.
+Any player created Ability with the Magical tag has to adhere to these four core rules as well.
+
+Character's also have access to a unique type of ability refered to as SPELLs. Each character has access to as many SPELLs as their WIL modifier and a character can't have -1 SPELLs.
+SPELLs are functionally the same as abilities with player's being able to create their own or pick from a list with the difference being that SPELLs have to have the Magical Tag.
+This is done in order to give "caster" characters more abilities without bloating the system.
+
+Through this design a purely "caster" character can start with 6 abilities 3 from their character and 3 from their WIL. And go upto 12 abilities.
