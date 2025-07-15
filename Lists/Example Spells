@@ -1,0 +1,11 @@
+Name: Ice Spear  
+Tag: Magical, Ranged (30ft)
+Type: Active (1)  
+Cost: 1 Stress  
+Effect: Ranged attack vs AC, 1d8 cold damage, applies Frozen condition (DC10 MGT save).
+
+Name: Magic Missile
+Tag: Magical, Ranged (45ft)
+Type: Active (1)
+Limits: Can be used up to 3 times before incurring +1 Stress per extra use per proper rest.
+Effect: Ranged attack vs AC, dealing 1d4 + WIL damage.
