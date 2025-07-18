@@ -2,11 +2,23 @@
 
 At the start of character creation each player picks a race for their character and from their race they have to pick from a list of 3 traits listed below.
 
+Untrained: 0
+Trained: +2
+Mastered: +4
+Expert: +6
+
+
 1) Human:
 
 -Versatile: Add a +1 to a checks involing all skills you have trained or mastered.
+# Jack of All Trades: Gain a new trained skill.
+# Master of Some: Gain a +1 to on all mastered skills.
 -Skillfull: Gain and master a skill at character creation.
+# Expertise: Gain Expertise with a skill you have mastered.
+# Cross-Training: Temporarily become trained a new skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day.
 -Ambitious: Increase your Stress Threshold by 2.
+# Through the Flames: Once per day, you can gain 1 stress point and in return you can add 1d6 to a roll you make.
+# Adventurer's Heart: Increase ST by 1 more and you lose 1d8 stress during-partial rests instead of 1d4
 
 2) Elf:
 
