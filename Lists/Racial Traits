@@ -2,12 +2,6 @@
 
 At the start of character creation each player picks a race for their character and from their race they have to pick from a list of 3 traits listed below.
 
-Untrained: 0
-Trained: +2
-Mastered: +4
-Expert: +6
-
-
 1) Human:
 
 -Versatile: Add a +1 to a checks involing all skills you have trained or mastered.
@@ -23,20 +17,35 @@ Expert: +6
 2) Elf:
 
 -Elven Archery: +1 to all attacks made using regular bows (shortbow longbow hunting bow composite bow)
+# Sure Shot: When you make a ranged attack with a regular bow and miss, you may reroll the attack once per encounter. You must keep the second result.
+# Modernized Archery: You gain +1 to all ranged attacks, regardless of weapon type and you can use Heavy Ranged weapons without meeting the MIGHT requirement.
 -Graceful Movement: You ignore movement penalties from rough terrain and gain +5ft to your speed.
--Feyvision: You can see in darkness up to 30 feet as if it were dim light. Additionally, you can perceive invisible creatures within 10 feet of you.
+# Wind's Stride: Your speed increases by another +5 ft (total +10 ft), and once per day you may Dash as a free action.
+# Elusive Step: Once per day you can move through enemy spaces as if they were empty and do not provoke Attacks of Opportunity during this movement.
+-Feyvision: You can see in darkness up to 30 feet as if it were dim light. Additionally, you can sense invisible creatures within 10 feet of you.
+# Beyond the Shadows: You can now see in darkness perfectly up to 120 feet and can see invisible creatures within 15 feet of you.
+
 
 3) Dwarf:
 
--Darkvision: You can see in complete darkness up to 120 ft. 
+-Darkvision: You can see in complete darkness up to 120 ft.
+# Deepdarker's Senses: You are immune to being blinded and Once per long rest, you may place your hand on the ground and sense the presence of all creatures within 30 feet this takes 1 action.
 -Stoneborn Resiliance: Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
+# Warrior's Soul: Once per long rest while in the dying condition you can remove one Mark of Death from yourself.
+# Stone's Strength: Gain an additional +1 to your hit points whenever you gain a level.
 -Rockhard: You take half damage from the Poisoned condition’s ongoing damage and gain +2 bonus to saving throws against being inflicted with the Poisoned condition.
+# Stoneflesh: You are immune to the Poisoned condition.
 
 4) Gnome:
 
 -Nimble: Gain a +1 to your AC when you are not wearing heavy or medium armor.
--Keen Senses Gain +2 to your initiative.
+# Fast Reflexes: Gain an additional +1 to your AC when meet these conditions.
+# Armored Acrobat: You don't need to meet the requirements for the AC bonus.
+-Keen Senses: Gain +2 to your initiative.
+# Quick Reaction: Gain an additional +1 to your initiative and increase your speed by 5 feet.
 -Small Tinkerer: Gain and master the Crafting Skill at character creation.
+# Expert Crafter: Become an expert with the crafting skill.
+# Small Magi: Gain and master the Spellcraft skill.
 
 5) Goblin:
 
