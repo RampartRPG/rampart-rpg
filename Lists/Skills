@@ -22,37 +22,37 @@ Experted:  +6
 List of Example Skills:
 Skill Name:		Ability:	Description:
 
-1) Climb		          [MGT]/[AGI]	  The ability to climb on steep surfaces.
-2) Swim 		          [MGT]/[AGI]	  The ability to swim across good distances.
-3) Sneak 		          [AGI]		      The ability to sneak past enemies or hide.
-4) Atheletics		      [MGT]		      The ability to perform feats of great strength.
-5) Acrobatics		      [AGI]		      The ability to execute jumps, backflips and safe landings.
-6) Escape		          [AGI]		      The ability to run away or escape from an enemy.
-7) Craft		          [WIL]		      The ability to craft items from resources.
-8) Medicine		        [WIL]		      The ability to apply medical kits and first aid.
-9) Alchemy		        [WIL]	        The ability to brew potions, poisons and elixirs.
-10) Sleight of Hand	  [AGI]		      The ability to perform hand trickery and thievery.
-11) Survival		      [WIL]		      The ability to survive in the wild.
-12) Navigation		    [WIL]		      The ability to find locations.
-13) Animal Handling	  [WIl]		      The ability to make animals listen to you.
-14) Forage		        [WIl]		      The ability to find food in nature.
-15) Lore __		        [WIL]		      Knowledge of a certain topic.
-16) Lore: Occultism	  [WIL]		      Knowledge of the Occult.
-17) Lore: Religion	  [WIL]       	Knowledge of religion
-18) Lore: Arcana	    [WIL]		      Knowledge of magic and magical objects.
-19) Lore: History	    [WIL]		      Knowledge of history.
-20) Languages		      [WIL]		      The ability to understand and translate languages.
-21) Society		        [PRS]/[WIL]	  The ability to converse with high society.
-22) Persuade		      [PRS]		      The ability to persuade another.
-23) Deceive		        [PRS]		      The ability to deceive another.
-24) Intimidate		    [PRS]/[MGT]	  The ability to intimidate another.
-25) Perform		        [PRS]/[AGI]	  The ability to perform musical instruments, dances and such.
-26) Diplomacy		      [PRS]/[WIL]	  The ability to form alliances and make agreements.	
-27) Perceive		      [WIL]      	  The ability to perceive your surroundings.
-28) Investigate		    [PRS]/[WIL]		The ability to closely inspect closed spaces.
-29) Insight		        [PRS]/[WIL]	  The ability to gather ideas about another.
-30) Tactics 		      [WIL]		      The ability to make strategy and plans for battle.
-31) Disguise		      [PRS]/[AGI]	  The ability to make and use a disguise.
-32) Streetwise		    [PRS]      	  The ability to converse with low society.
-33) Spellcraft		    [WIL]		      The ability to craft scrolls.
-34) Research 		      [WIL]		      The ability to gather information from books.
+Climb ([MGT]/[AGI]): The ability to climb on steep surfaces.
+Swim ([MGT]/[AGI]): The ability to swim across good distances.
+Sneak ([AGI]): The ability to sneak past enemies or hide.
+Athletics ([MGT]): The ability to perform feats of great strength.
+Acrobatics ([AGI]): The ability to execute jumps, backflips, and safe landings.
+Escape ([AGI]): The ability to run away or escape from an enemy.
+Craft ([WIL]): The ability to craft items from resources.
+Medicine ([WIL]): The ability to apply medical kits and first aid.
+Alchemy ([WIL]): The ability to brew potions, poisons, and elixirs.
+Sleight of Hand ([AGI]): The ability to perform hand trickery and thievery.
+Survival ([WIL]): The ability to survive in the wild.
+Navigation ([WIL]): The ability to find locations.
+Animal Handling ([WIL]): The ability to make animals listen to you.
+Forage ([WIL]): The ability to find food in nature.
+Lore ([WIL]): Knowledge of a certain topic.
+Lore: Occultism ([WIL]): Knowledge of the Occult.
+Lore: Religion ([WIL]): Knowledge of religion.
+Lore: Arcana ([WIL]): Knowledge of magic and magical objects.
+Lore: History ([WIL]): Knowledge of history.
+Languages ([WIL]): The ability to understand and translate languages.
+Society ([PRS]/[WIL]): The ability to converse with high society.
+Persuade ([PRS]): The ability to persuade another.
+Deceive ([PRS]): The ability to deceive another.
+Intimidate ([PRS]/[MGT]): The ability to intimidate another.
+Perform ([PRS]/[AGI]): The ability to perform musical instruments, dances, and such.
+Diplomacy ([PRS]/[WIL]): The ability to form alliances and make agreements.
+Perceive ([WIL]): The ability to perceive your surroundings.
+Investigate ([PRS]/[WIL]): The ability to closely inspect closed spaces.
+Insight ([PRS]/[WIL]): The ability to gather ideas about another.
+Tactics ([WIL]): The ability to make strategy and plans for battle.
+Disguise ([PRS]/[AGI]): The ability to make and use a disguise.
+Streetwise ([PRS]): The ability to converse with low society.
+Spellcraft ([WIL]): The ability to craft scrolls.
+Research ([WIL]): The ability to gather information from books.
