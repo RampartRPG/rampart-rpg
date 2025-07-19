@@ -1,0 +1,58 @@
+Skills
+
+A skill is a task or topic which your character is extraordinarily good at, they have a wide range of uses
+but the most important ones are [Skill Check]s. Every skill is inherently tied to an Attribute.
+When a character attempts to do something if the task at hand is particularly hard the GM will ask for an [Skill Check].
+
+Example:
+-Character A attempts to craft a (Potion of Moderate Healing).
+-The GM asks for a [WIL] [Skill Check] with a DC15. The DC is left to GM interpretations.
+-The character rolls a D20 adds their [WIL] modifier and adds the bonus they obtained from a skill if its relavent such as (Alchemy) or (Crafting)
+-The roll of the dice tells them their degree of success or failure which is again up to GM interpretation.
+
+Every character by default starts with 3 trained skills, and they gain or upgrade a skill at levels 4 and 8.
+These skills can be chosen from the list below or made up by the player and GM. The GM has to make sure that the skill isn't too specific or broad.
+Your skills can be at 4 distinct tiers each giving a different amount of bonus to your [Skill Check]s, when a character doesn't specifically have anything to do with a skill its untrained by default:
+
+Untrained: +0
+Trained:   +2
+Mastered:  +4
+Experted:  +6
+
+List of Example Skills:
+Skill Name:		Ability:	Description:
+
+1) Climb		          [MGT]/[AGI]	  The ability to climb on steep surfaces.
+2) Swim 		          [MGT]/[AGI]	  The ability to swim across good distances.
+3) Sneak 		          [AGI]		      The ability to sneak past enemies or hide.
+4) Atheletics		      [MGT]		      The ability to perform feats of great strength.
+5) Acrobatics		      [AGI]		      The ability to execute jumps, backflips and safe landings.
+6) Escape		          [AGI]		      The ability to run away or escape from an enemy.
+7) Craft		          [WIL]		      The ability to craft items from resources.
+8) Medicine		        [WIL]		      The ability to apply medical kits and first aid.
+9) Alchemy		        [WIL]	        The ability to brew potions, poisons and elixirs.
+10) Sleight of Hand	  [AGI]		      The ability to perform hand trickery and thievery.
+11) Survival		      [WIL]		      The ability to survive in the wild.
+12) Navigation		    [WIL]		      The ability to find locations.
+13) Animal Handling	  [WIl]		      The ability to make animals listen to you.
+14) Forage		        [WIl]		      The ability to find food in nature.
+15) Lore __		        [WIL]		      Knowledge of a certain topic.
+16) Lore: Occultism	  [WIL]		      Knowledge of the Occult.
+17) Lore: Religion	  [WIL]       	Knowledge of religion
+18) Lore: Arcana	    [WIL]		      Knowledge of magic and magical objects.
+19) Lore: History	    [WIL]		      Knowledge of history.
+20) Languages		      [WIL]		      The ability to understand and translate languages.
+21) Society		        [PRS]/[WIL]	  The ability to converse with high society.
+22) Persuade		      [PRS]		      The ability to persuade another.
+23) Deceive		        [PRS]		      The ability to deceive another.
+24) Intimidate		    [PRS]/[MGT]	  The ability to intimidate another.
+25) Perform		        [PRS]/[AGI]	  The ability to perform musical instruments, dances and such.
+26) Diplomacy		      [PRS]/[WIL]	  The ability to form alliances and make agreements.	
+27) Perceive		      [WIL]      	  The ability to perceive your surroundings.
+28) Investigate		    [PRS]/[WIL]		The ability to closely inspect closed spaces.
+29) Insight		        [PRS]/[WIL]	  The ability to gather ideas about another.
+30) Tactics 		      [WIL]		      The ability to make strategy and plans for battle.
+31) Disguise		      [PRS]/[AGI]	  The ability to make and use a disguise.
+32) Streetwise		    [PRS]      	  The ability to converse with low society.
+33) Spellcraft		    [WIL]		      The ability to craft scrolls.
+34) Research 		      [WIL]		      The ability to gather information from books.
