@@ -1,0 +1,61 @@
+  # Game Rules
+
+  Skill Checks
+In order to accomplish tasks within the game, players and NPCs alike must go through a skill check. Not every task requires a skill check, tasks that would be guaranteed for the characters to achieve can be done without a check.
+Making a skill check requires rolling a d20 and then adding the corresponding bonuses that your character might have. (Bonuses explained more in detail in the attributes section below and in Chapter 2)
+A skill check can be as difficult as the GM makes it, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing 
+the skill check will try to surpass that number with the dice roll and added bonuses. Two (or more) characters can also perform a skill check against themselves, the highest result will win the skill check.
+((Do we have crit success or fail for skill checks?? if so, add them here or tell me to add them pls))
+
+
+  Attributes
+Attributes are used to determine a character's strengths and weaknesses. These four main stats are what determine who your character is and what they are honing their skills towards. (?)
+ When you are creating your character you'll be able to pick what level these stats start out as, the higher these stats are the higher your bonus is for matching skill checks.
+ Here is a brief explanation of what each attribute represents:
+
+MIGHT [MGT]: Represents physical power. This ability is important for short range attackers, as it increases their damage as well as their health points. 
+ Characters with a higher Might stat will also be able to use heavier equipment like two-handed weapons and heavy armor.
+  
+FINESSE / AGILITY [FIN/AGI]: Represents precision, quick hand movements and overall swiftness. Characters with high Agility excel at long and close range combat alike, and even though they might not be able to take too many hits in combat,
+ the Agility stat's increase to the chance of evading hits allows for them to take one on one battles with ease. Agility helps characters wield weapons that reward sharp and clear movements such as daggers or rapiers in the close range and bows or crossbows in the long range.
+((is FIN and AGI the same or were you not sure which to pick? personally i think agi sounds better.))
+
+WILL [WIL]: Represents resolve, intelligence and perception. This will determine how well your character understands some of the concepts of the world you're playing, such as it's history or the monsters of the world.
+  This ability is also crucial for characters who rely heavily on their abilities to function, as increasing your Will, increases your maximum Stress and Stress is the main inhibitor of casting lots of abilities. (?this sentence kinda sucks)
+  
+PRESENCE [PRS]: Represents social skills such as manipulation, intimidation and bartering. Presence will help with any social situation, which is where skill checks usually occur so whilst it may not directly help your characters in combat,
+  it could be helpful in getting them out of it. (or into it, but with bonuses!) 
+
+
+
+Stress
+ Stress is one of the core mechanics of Rampart and it is as important of a stat to manage almost as much as health.
+In short, many abilities in the game will cause your characters to obtain points of Stress and having too many points of Stress will cause your characters to gain Trauma. Using abilities is not the only way of getting stress, though, as Stress is just a general measurement of
+the physical and mental strain you are putting your character through. 
+ Here are some examples of situations that your characters may find to be stressful:
+  # Using magical or unstable abilities ((can we get a definition of an unstable ability, thx)).
+  # Getting afflicted with conditions like fear, horror or mind control.
+  # Enduring traumatic or exhausting events.
+  # Taking damage greater than or equal to your MAX HP.
+
+ If you find yourself in a situation where you've accumulated too many Stress points these are some things you can do to reduce your Stress.
+  
+ # Resting in unsafe or inadequate conditions removes 2 points of stress.
+ # Resting in a safe environment reduces your Stress points to 0.
+ # Calming activities and spells may reduce a few points of Stress. (The GM can decide how many points of Stress to reduce.)
+
+ If you fail to reduce your Stress points and surpass the Stress threshold of your character, roll a Will saving throw with a DC (Difficulty Level) of 15, follow these rules based on the result of the dice:
+In case of a,
+# Critical Success: Reduce your stress by 3 points.
+# Success: Reduce your stress by 1 point.
+# Failure: Gain a Trauma and your stress is reduced to 0.
+# Critical Failure: Gain a Trauma, your stress is reduced to 0 and your character becomes unplayable for your next turn.i
+
+
+Trauma
+  Traumas represent mental scars serving as impairments which your character will have to either outgrow or embrace at later levels.
+  If your character accumulates 3 traumas, then on their next failed trauma saving throw their mind collapses under the pressure
+  and they are no longer able to continue the adventure. It's up to the players to decide on how they might go out. (Becoming an NPC, Giving up on adventuring etc.)
+  
+  Healing a trauma a character get to level 5 at which point they gain the ability to either remove one trauma or "evolve" them. ((talk about evolution next, pls))
+
