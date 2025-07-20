@@ -19,7 +19,7 @@ Attributes are used to determine a character's strengths and weaknesses. These f
 // Again with "Level" perhaps tier or another word would work better.
  Here is a brief explanation of what each attribute represents:
 
-MIGHT [MGT]: Represents physical power. This ability is important form melee combatants, as it increases their damage as well as their health points. 
+MIGHT [MGT]: Represents physical power. This ability is important for melee combatants, as it increases their damage as well as their health points. 
  Characters with a higher Might stat will also be able to use heavier equipment like two-handed weapons and heavy armor.
   
 AGILITY [AGI]: Represents precision, quick hand movements and overall swiftness. Characters with high Agility excel at long and close range combat alike, and even though they might not be able to take too many hits in combat,
