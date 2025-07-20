@@ -2,10 +2,46 @@ Name: Ice Spear
 Tag: Magical, Ranged (30ft)
 Type: Active (1)  
 Cost: 1 Stress  
-Effect: Ranged attack vs AC, 1d8 cold damage, applies Frozen condition (DC10 MGT save).
+Effect: Ranged attack vs AC, 1d8 + WIL damage, applies Frozen condition (DC10 MGT save).
 
 Name: Magic Missile
 Tag: Magical, Ranged (45ft)
 Type: Active (1)
 Limits: Can be used up to 3 times before incurring +1 Stress per extra use per proper rest.
 Effect: Ranged attack vs AC, dealing 1d4 + WIL damage.
+
+Name: Hail Shards
+Tag: Magical, Ranged (30ft), Area (5ft radius)
+Type: Active (1)
+Cost: 2 Stress
+Effect: Enemies in the targeted area have to make an AGI save (DC12) and on a fail take 2d4 damage. On success, take half.
+
+Name: Ice Blade
+Tag: Magical, Melee
+Type: Active (1)
+Cost: 1 Stress
+Effect: Conjure a small dagger made of ice in your hands for a 2 rounds: -Ice Blade: 2d4 damage	(Light)(Finesse). On a critical hit applies the frozen condition.
+
+Name: Flying Icicle
+Tag: Magical, Ranged (60ft)
+Type: Active (1)
+Cost: 1 Stress
+Effect: Ranged attack vs AC, 1d4 + 1 damage. You have a +3 to your attack roll for this attack and ignore cover.
+
+Name: Blizzard Veil
+Tag: Magical, Area (10ft radius)
+Type: Active (2)
+Cost: 2 Stress
+Effect: Create a 10ft radius of blizzard around yourself for a round, anyone who moves inside this action has to roll a DC12 AGI save or gain the frozen condition.
+
+Name: Ice Armor
+Tag: Magical, Melee
+Type: Active (1)
+Cost: 2 Stress
+Effect: Touch a willing creature giving them a magical armor for a minute, which increases their AC by 2 and makes them immune to the frozen condition
+
+Name: Snowgrave
+Tag: Magical, Area (15ft radius)
+Type: Active (3)
+Cost: 3 Stress, Can only be used once per day.
+Effects: Deadly snow falls around the user, each creature within a 15ft radius must make a DC15 AGI save or take 2d8 damage and gain the frozen condition, on a success they take half damage.
