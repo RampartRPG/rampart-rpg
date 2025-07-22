@@ -1,0 +1,48 @@
+In RampartRPG the core of character creation is the ability system. Each player gets to pick from a list or create their own abilities, this allows for the system to be classless yet still have meaningful
+differences between characters. It also allows for immense player freedom unlike most systems.
+
+These abilities can be grouped into three types:
+# Physical: Physical abilities are any ability which makes no use of anything other than your own body.
+# Utility: Utility abilities are abilities which don't fit into the magical or physical category.
+# Magical: Magical abilities are directly tied to supernatural powers and the arcane.
+
+There is a clear mechanical difference between the design of Physical / Utility abilities and Magical abilities that being:
+# Magical abilities need to have a stress cost attached to them.
+# Magical abilities have a chance of inflicting stress if used without magical conduits.
+# Magical abilities are strictly tied to the WILL attribute.
+# Magical abilities use the Cast action.
+
+Any character can create or pick a magical ability but they'll be upheld to these rules. For example a character which broadly feels like a brawler can pick up a magical ability but they'll still have a
+chance to gain stress from it if they use it without a magical conduit.
+Any player created Ability with the Magical tag has to adhere to these four core rules as well.
+
+Character's also have access to a unique type of ability refered to as SPELLs. Each character has access to as many SPELLs as their WIL modifier and a character can't have -1 SPELLs.
+SPELLs are functionally the same as abilities with player's being able to create their own or pick from a list with the difference being that SPELLs have to have the Magical Tag.
+This is done in order to give "caster" characters more abilities without bloating the system.
+
+Through this design a purely "caster" character can start with 6 abilities 3 from their character and 3 from their WIL. And go upto 12 abilities.
+
+  Magical Conduits
+
+Magical Conduit are objects which can stabilize and help in the casting of magical abilities, in fact using abilities without a Magical Conduit equipped or activated will have a chance
+to increase the user's stress by 1 point. Every time a character uses a magical ability without a condition they have to make a DC12 WIL save and on fail they gain 1 point of stress, on a crit fail 2 points of stress.
+Each conduit is either held or activated, conduits which are held need to be equipped in a character's hands to provide their bonuses and remove the Stress chance. Conduits which are activated are worn
+on a character's body like: rings, amulets, crystals etc and they require 1 action during combat to activate before this activation they provide no bonuses.
+
+Each ability cast can only receive the bonus from a single conduit, if a character has multiple equiped or activated conduits they have to choose the one they're using before casting.
+A player can only have 2 Held conduits at a time (as they have 2 hands) and 1 activated conduit if they activate another one, the former deactivates.
+
+Each magical conduit has its own small bonus that comes with it:
+
+# Staff (Held): Staffs can be used as weapons in addition to their status as a magical conduit: Staff	1d4/1d6	(Finesse)
+# Wand (Held): Adds a +1 to your magical attack rolls.
+# Tome (Held): Allows you to roll a DC12 WIL save when using magical abilities, On a success you lose a point of stress that you would've otherwise gained.
+# Totem (Held): Increases the Area of spells that have the area tag by 50%.
+# Instrument (Held): Allows the ally whose turn is after yours to add the number of abilities you used during your turn to the first roll they make.
+# Ring (Activated): Adds a +1 to your magical damage rolls.
+# Amulet (Activated): Increases the range of spells with that have the ranged tag by 50%.
+# Braclet (Activated): Allows you to roll a DC12 WIL save when using magical abilities, on a success this ability costs 1 less action than it would, on a fail your turn ends.
+# Charm (Activated): Increases the duration of spells that have a duration by 50% rounded down.
+# Elemental Crystal (Activated): When making an attack roll you can choose to the inflict condition this crystal's element: make a DC12 WIL save and on a success apply the elemental condition on a fail do half damage.
+
+  Scrolls
