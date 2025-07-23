@@ -46,3 +46,19 @@ Each magical conduit has its own small bonus that comes with it:
 # Elemental Crystal (Activated): When making an attack roll you can choose to the inflict condition this crystal's element: make a DC12 WIL save and on a success apply the elemental condition on a fail do half damage.
 
   Scrolls
+
+Scrolls are single-use items which allow anyone to cast an active spell regardless of conduit use or magical ability. Every scroll contains within it a single active spell,
+this spell can be cast by activating (Interact Action) the scroll while it is equipped in a character's hands. The spell works like normal and does what it says in its Effect, the scroll disintegrates into dust after use.
+Spells which take more than a single action to cast still only take 1 action to use via scrolls.
+Scrolls are sold in magical stores or found as loot in dungeons throughout the world
+Scrolls provide a way to use Spells without possessing them and give non-casters a taste of what it feels like to use magic.
+
+ Crafting Scrolls
+
+Crafting Scrolls takes an hour of ingame time and requires: knowledge of the Spell (Seen, Studied or has resources on), a piece of paper, ink and
+a DC(10 + Stress Cost + Action Cost) WIL save with the Spellcraft skill on a:
+# Critical Fail: The spell has been corrupted, if a character attempts to use this scroll the spell will backfire and attack the caster themselves or an ally.
+The characters are of corruption unless they examine the scroll with a WIL save with the Arcane Lore skill or a substitue.
+# Fail: The piece of paper disintegrates into dust.
+# Success: The Scroll is crafted without error.
+# Critical Success: The Scroll is crafted without error and takes 15 minutes instead of an hour.
