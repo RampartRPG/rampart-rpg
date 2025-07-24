@@ -1,0 +1,30 @@
+Stress
+ Stress is one of the core mechanics of Rampart and it is as important of a stat to manage almost as much as health.
+In short, many abilities in the game will cause your characters to obtain points of Stress and having too many points of Stress will cause your characters to gain Trauma. Using abilities is not the only way of getting stress, though, as Stress is just a general measurement of
+the physical and mental strain you are putting your character through. 
+ Here are some examples of situations that your characters may find to be stressful:
+  # Using magical abilities
+  # Getting afflicted with conditions like fear, horror or mind control.
+  # Enduring traumatic or exhausting events.
+  # Taking damage greater than or equal to your MAX HP.
+
+ If you find yourself in a situation where you've accumulated too many Stress points these are some things you can do to reduce your Stress.
+  
+ # Resting in unsafe or inadequate conditions removes 2 points of stress.
+ # Resting in a safe environment reduces your Stress points to 0.
+ # Calming activities and spells may reduce a few points of Stress. (The GM can decide how many points of Stress to reduce.)
+
+ If you fail to reduce your Stress points and surpass the Stress threshold of your character, roll a Will saving throw with a DC (Difficulty Level) of 15, follow these rules based on the result of the dice:
+In case of a,
+# Critical Success: Reduce your stress by 3 points.
+# Success: Reduce your stress by 1 point.
+# Failure: Gain a Trauma and your stress is reduced to 0.
+# Critical Failure: Gain a Trauma, your stress is reduced to 0 and your character becomes unplayable for your next turn.i
+
+
+Trauma
+  Traumas represent mental scars serving as impairments which your character will have to either outgrow or embrace at later levels.
+  If your character accumulates 3 traumas, then on their next failed trauma saving throw their mind collapses under the pressure
+  and they are no longer able to continue the adventure. It's up to the players to decide on how they might go out. (Becoming an NPC, Giving up on adventuring etc.)
+  
+  Healing a trauma a character get to level 5 at which point they gain the ability to either remove one trauma or "evolve" them.
