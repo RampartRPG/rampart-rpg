@@ -1,0 +1,19 @@
+
+RamprtRPG uses the default D20 system to determine the success or failure of an action in our outside of combat. Whenever a character attempts to do something
+deemed non-trivial; acts which have a component of luck they have to roll against a number referred to as a DC (Difficulty Class) to determine the outcome.
+
+There are all kinds of rolls but most common are: Attribute Checks, Skill Checks or Attack Rolls and they all use the D20. 
+Attribute Checks are raw tests of power: You roll a d20 + Relavent Attribute Modifier and compare it to a DC.
+Skill Checks are tests of finer work: You roll a d20 + Relavent Attribute Modifier + Relavent Skill Modifier and compare it to a DC.
+Players can attempt to turn Attribute Checks into Skill Checks if the skill in question is conceivably a part of the act the character is attempting.
+Attack Rolls are unique in that they only happen during combat, they measure how successful you were at hitting your target. d20 + MGT/AGI Modifier depending on weapon and compare it to target AC.
+
+Each roll has a certain degree of success to it put into 4 categories:
+Critical Failure: Happens when you roll a 1 on your d20 or roll 10 points below the target DC. It means that you have disastrously failed at your attempt and will suffer consequences.
+Failure: Happens when you roll under the target DC. It means that you have failed at your attempt.
+Success: Happens when you roll above or at the target DC. It means you have succeeded at your attempt.
+Critical Success: Happens when you roll a 20 on your d20 or roll 10 points above the target AC. It means that you have exceptionally succeeded at your attempt and will gain benefits.
+
+Attack Rolls are unique in that they have a condition of partial success as well called a Glancing Hit:
+Glancing Hit: Happens when you roll 1 or 2 points below the target AC, It means that you have managed to hit your target but have to halve your damage.
+
