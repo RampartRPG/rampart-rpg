@@ -1,0 +1,41 @@
+  Comprehensive Combat Rules
+
+RampartRPG can be broadly split into 2 styles of play both of which are observed regularly in most games: Exploration and Combat. 
+When characters enter Combat the games rules tigthen and characters can not move freely and take actions as they please. They are bound by an action economy which works with turns.
+In combat movement is also precisely measured by grids and each character can only move up to a certain amount of tiles within a single turn.
+This stricter ruleset allows for battles to be more strategic and tactical.
+
+  Initiatve
+
+The game switches from Exploration mode to Combat Mode through the use of an Initiatve Roll. Initiative is used to determine who goes first in combat and how the turns will play out.
+When an actively hostile group notices the players or someone attacks another group. The GM asks for the character with the highest PRESENCE on either side to roll a Presence Attribute Check.
+This is called an Initiative Roll. The side which rolled higher has gets their turn first. The side which had the higher roll decides among themselves the character is going to be first.
+The character picked finishes their turn and picks another member on their side to continue. This continues onwards until all characters on one side have had their turn.
+The other side also decides among themselves their starting member and goes on as mentioned.
+
+  Action Economy
+
+
+
+  Attack Rolls
+
+In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or FIN) against a target's AC (Armor Class).
+These rolls can have these results:
+
+# Critical Failure: Happens when you roll a 1 on your d20 or roll 10 points below the target AC. You miss your attack and your target gets an Attack of Opportunity against you.
+# Failure: Happens when you roll under the target AC. You miss your attack.
+# Glancing Hit: Happens when you roll 1 or 2 points below the target AC. You partially succeed in your attack and roll for damage but you have to halve it.
+# Success: Happens when you roll above or at the target AC. You succeed in your attack and roll for damage.
+# Critical Success: Happens when you roll a 20 on your d20 or roll 10 points above the target AC. You succeed in your attack and roll for damage but you can choose to either deal double damage or apply the bleeding condition.
+
+  Damage Rolls and Weapons
+
+Attacks of Opportunity are a special type of attack performed outside of the usual turn order. They require a (trigger) to occur and can only be used right after one.
+When another character provokes a trigger, your character can perform an Attack of Opportunity against them with a regular attack and damage roll. These triggers include:
+A character can't use multiple attacks of Opportunity in a single round.
+
+# Trying to move outside of a character's melee range without using the disengage action.
+# Critically failing an attack roll against a character.
+# Trying to attack a character using a ranged weapon within their melee range.
+
+
