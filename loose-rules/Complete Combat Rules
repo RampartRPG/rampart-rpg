@@ -8,16 +8,18 @@ This stricter ruleset allows for battles to be more strategic and tactical.
   Initiatve
 
 The game switches from Exploration mode to Combat Mode through the use of an Initiatve Roll. Initiative is used to determine who goes first in combat and how the turns will play out.
+If a party was attacked without their knowledge such as a surprise attack instead of an Initiative Roll the attacking side goes first.
 When an actively hostile group notices the players or someone attacks another group. The GM asks for the character with the highest PRESENCE on either side to roll a Presence Attribute Check.
 This is called an Initiative Roll. The side which rolled higher has gets their turn first. The side with the higher roll decides among themselves who is going to be first.
 The character picked finishes their turn and picks another member on their side to continue. This continues onwards until all the characters on one side have finished their turns.
+This order they made isn't fixed in place and every round they can act in whichever order they please according to these rules.
 
   Action Economy
 
 One turn is 12 seconds of ingame time and during a turn each character has three action slots each roughly taking 3-4 seconds of time.
 These slots are used to perform actions which can range from very simple (Moving, Attack, Interacting) to very complex (Battle Manevuers, Casting Spells, Battle Actions). 
 Each action takes a certain amount of action slots to perform with the minimum being 1 and maximum being 3.
-Doing about almost anything during combat spends some amount of action slots unlike in other TTRPGs where things such as talking or interacting are treated as "Free Actions" RampartRPG has no such thing.
+Doing about almost anything during combat spends some amount of action slots so there are no free actions, bonus actions or reactions.
 The time it takes for all members of all parties to finish their turns is called a Round. You can also measure a round as the time it took for you to get your turn again after playing.
 The length of rounds can range anywhere from 30 seconds to 2 minutes of ingame time.
 
@@ -66,6 +68,7 @@ This way players can still attack multiple times but aren't really encouraged to
 
   Damage Rolls and Weapons
 
+Damage measures how much harm you've done to your target and its subtracted from their HP. There are no damage types in RampartRPG all damage is flat.
 The damage of your attack deals are a mix of your weapon's dice and your character's attributes. Each weapon has a set of dice called "Damage Dice" attached to them. 
 They range from 1d4 to 1d12/2d6/3d4. Tese make the backbone of your damage and your character's MIGHT or AGILITY act like additions to it.
 The damage of melee weapons are calculated as the weapon's dice + the MIGHT modifier of the character using it.
@@ -79,9 +82,9 @@ Maneuvers are highly useful specific techniques which give weapons identiy expla
 
 Each player character has two hands unless explicitly stated otherwise, so they can have upto two weapons equiped at any given them.
 In most combat scenarios it is expected that the party doesn't have their weapons equiped unless they were preparing for combat or had stated that they drew their weapons before the start of combat.
-During combat, drawing a regular weapon costs only a signle action under the *Interact* action. This act lets you draw one weapon, if this weapon is single-handed then by default you draw it with only one hand.
-If its dual-handed then by default you draw it with two, but for versatile weapons you can choose if you want to use it with one or two hands.
-If you want to switch between single-handed and dual-handed modes on a versatile weapon that also takes a single *Interact* action.
+During combat, drawing a regular weapon costs only a single action under the *Interact* action. This act lets you draw one weapon, if this weapon is single-handed then by default you draw it with only one hand.
+If its two-handed then by default you draw it with two, but for versatile weapons you can choose if you want to use it with one or two hands.
+If you want to switch between single-handed and two-handed modes on a versatile weapon that also takes a single *Interact* action.
 
 Stowing a weapon back into its sheat or your backpack also takes one *Interact* action. All the rules stated in drawing apply to stowing as well. 
 Dropping a weapon, throwing it to an ally or handing it to an ally costs one *Interact* action also. But throwing requires a successful AGI check with DC varying from situation to situation.
@@ -191,7 +194,10 @@ Alternatively a Blacksmith or another professional can remove the condition for 
 
   Flanking and Cover
 
-// I'm tired I'll write this later
+Flanking an enemy is a tactic which is rather useful in battle, if two characters on the same side surround an opposing character by standing at opposites sides of them its called flanking.
+Characters which are flanking the target gain a +2 to the attack rolls they make against the flanked target.
+
+Cover is a way to hide from danger, characters can hide behind objects or other characters during combat giving a -2 to attack rolls made against them.
 
 
 
