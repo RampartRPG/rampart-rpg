@@ -7,34 +7,34 @@ Each background provides 4 things to your character:
 # An Item useful outside of Combat
 
 Backgrounds are divied into 4 distinct economic classes, these decide the amount of gold you receive
-# Wretched: 2d4 + 5 gold or average 10
-# Working: 4d4 + 5 gold or average 15
-# Comfortable 6d4 + 10 gold or average 25
-# Privileged 8d4 + 20 gold or average 40
+# Wretched: 2d4 gold 
+# Working: 4d4 gold 
+# Comfortable 6d4 gold
+# Privileged 8d4 gold
 
 List of Backgrounds:
 
-Begger:
-Outlaw: 
-Slave:
-Peasant:
-Thief:
-Cultist:
-Mercenary:
-Sailor:
-Scout:
-Performer:
-Craftsman:
-Hunter:
-Apprentice:
-Astrologer:
-Soldier:
-Scholar:
-Acolyte:
-Noble:
-Chef:
-Smith:
-Healer:
+Begger: Skill: Streetwise. Items: Slingshot, Rope, 2d4 Pebbles, 2d4 + 2 gold.
+Outlaw: Skill: Sneak. Items: Dagger, Lockpicking Tools, 2d4 + 4 gold.
+Slave: Skill: Survival (Mastered). Items: Broken Knife, Broken Shackles, 2d4 gold.
+Peasant: Skill: Animal Handling. Items: Sickle, Torch, Improvised Medical Kit, 2d4 + 2 gold.
+Thief: Skill: Steal. Items: Knife, Climbing Tools, Rope, 2d4 + 2 gold.
+Cultist: Skill: Lore (Occult). Items: Staff, Ceremonial Robes, 2d4 gold.
+Mercenary: Skill: Athletics. Items: Longsword, 4d4 + 2 gold.
+Sailor: Skill: Swimming. Items: Handaxe, compass, 4d4 + 2 gold. 
+Scout: Skill: Navigation. Items: Javelin, Spyglass, 2d4 + 2 gold.
+Performer: Skill: Performance. Items: An Instrument, 2d4 + 4 gold.
+Craftsman: Skill: Craft. Items: Handaxe, Crafting Kit, 4d4 + 4 gold.
+Hunter: Skill: Perceive. Items: Hunting Bow, Trap Kit, 2d4 + 2 gold.
+Student: Skill: Languages. Items: Knife, Writing Kit, 4d4 + 2 gold. 
+Astrologer: Skill: Lore (Arcana). Items: Estoc, Sundial, 2d4 + 4 gold.
+Soldier: Skill: Tactics. Items: Spear, 4d4 + 4 gold.
+Scholar: Skill: Research. Items: Tome, Writing Kit, 4d4 + 4 gold.
+Acolyte: Skill: Lore (Religion). Items: Charm, Potion of Moderate Healing, 2d4 + 4 gold.
+Noble: Skill: Society. Items: Amulet, 6d4 + 4 gold.
+Aristocrat: Skill: Diplomacy. Items: Arming Sword, Empty Scrolls, 6d4 + 2 gold.
+Smith: Skill: Smithing. Items: Broadsword, Smithing Kit, 4d4 + 2 gold.
+Healer: Skill: Medicine. Items: Knife, Medical Kit, 4d4 + 2 gold.
 
 
 
