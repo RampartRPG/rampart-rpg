@@ -6,12 +6,6 @@ Each background provides 4 things to your character:
 # An Item useful in Combat
 # An Item useful outside of Combat
 
-Backgrounds are divied into 4 distinct economic classes, these decide the amount of gold you receive
-# Wretched: 2d4 gold 
-# Working: 4d4 gold 
-# Comfortable 6d4 gold
-# Privileged 8d4 gold
-
 List of Backgrounds:
 
 Begger: Skill: Streetwise. Items: Slingshot, Rope, 2d4 Pebbles, 2d4 + 2 gold.
