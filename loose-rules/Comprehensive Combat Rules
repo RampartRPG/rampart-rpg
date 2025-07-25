@@ -9,17 +9,22 @@ This stricter ruleset allows for battles to be more strategic and tactical.
 
 The game switches from Exploration mode to Combat Mode through the use of an Initiatve Roll. Initiative is used to determine who goes first in combat and how the turns will play out.
 When an actively hostile group notices the players or someone attacks another group. The GM asks for the character with the highest PRESENCE on either side to roll a Presence Attribute Check.
-This is called an Initiative Roll. The side which rolled higher has gets their turn first. The side which had the higher roll decides among themselves the character is going to be first.
-The character picked finishes their turn and picks another member on their side to continue. This continues onwards until all characters on one side have had their turn.
-The other side also decides among themselves their starting member and goes on as mentioned.
+This is called an Initiative Roll. The side which rolled higher has gets their turn first. The side with the higher roll decides among themselves who is going to be first.
+The character picked finishes their turn and picks another member on their side to continue. This continues onwards until all the characters on one side have finished their turns.
 
   Action Economy
 
-
+One turn is 12 seconds of ingame time and during a turn each character has three action slots each roughly taking 3-4 seconds of time.
+These slots are used to perform actions which can range from very simple (Moving, Attack, Interacting) to very complex (Battle Manevuers, Casting Spells, Battle Actions). 
+Each action takes a certain amount of action slots to perform with the minimum being 1 and maximum being 3.
+Doing about almost anything during combat spends some amount of action slots unlike in other TTRPGs where things such as talking or interacting are treated as "Free Actions" RampartRPG has no such thing.
+The time it takes for all members of all parties to finish their turns is called a Round. You can also measure a round as the time it took for you to get your turn again after playing.
+The length of rounds can range anywhere from 30 seconds to 2 minutes of ingame time.
 
   Attack Rolls
 
-In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or FIN) against a target's AC (Armor Class).
+In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or AGI) against a target's AC (Armor Class).
+Attack Rolls are your likelyhood of hitting your enemy properly and if you've dealt damage to them.
 These rolls can have these results:
 
 # Critical Failure: Happens when you roll a 1 on your d20 or roll 10 points below the target AC. You miss your attack and your target gets an Attack of Opportunity against you.
@@ -29,6 +34,16 @@ These rolls can have these results:
 # Critical Success: Happens when you roll a 20 on your d20 or roll 10 points above the target AC. You succeed in your attack and roll for damage but you can choose to either deal double damage or apply the bleeding condition.
 
   Damage Rolls and Weapons
+
+The damage of your attack deals are a mix of your weapon's dice and your character's attributes. Each weapon has a set of dice called "Damage Dice" attached to them. 
+They range from 1d4 to 1d12/2d6/3d4. Tese make the backbone of your damage and your character's MIGHT or AGILITY act like additions to it.
+The damage of melee weapons are calculated as the weapon's dice + the MIGHT modifier of the character using it.
+The damage of ranged weapons are calculated as the weapon's dice + the AGILITY modifier of the character using it.
+Melee weapons with the Finesse tag can be used with AGILITY modifier if the character using it prefers that, these weapons usually use dexterity and quick movements more than brute strength.
+
+  Actions in Combat
+
+
 
 Attacks of Opportunity are a special type of attack performed outside of the usual turn order. They require a (trigger) to occur and can only be used right after one.
 When another character provokes a trigger, your character can perform an Attack of Opportunity against them with a regular attack and damage roll. These triggers include:
