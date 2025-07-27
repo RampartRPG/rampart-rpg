@@ -1,12 +1,11 @@
  #Player's Guide
 
-
-
- Role of the Player
+ 
+ For Players
 Reading this book and getting familiar with the game rules should be a priority as a player.
 Afterwards you should start off by creating your first character.
 
- Role of the Game Master
+ For Game Masters
 Reading this book and getting familiar with the game rules is also a priority of the game master.
 Creating the world for your campaign, which should be done before playing.
 Pay close attention to the Game Master's guide (Chapter A, pg. B) where creating a plan for the campaign is explained in more detail.
@@ -20,8 +19,7 @@ Attributes are used to determine a character's strengths and weaknesses. These f
 MIGHT [MGT]: Represents physical power. This ability is important for melee combatants, as it increases their damage as well as their health points. 
  Characters with a higher Might stat will also be able to use heavier equipment like two-handed weapons and heavy armor.
   
-AGILITY [AGI]: Represents precision, quick hand movements and overall swiftness. Characters with high Agility excel at long and close range combat alike, and even though they might not be able to take too many hits in combat,
- the Agility stat's increase to the chance of evading hits allows for them to take one on one battles with ease.
+AGILITY [AGI]: Represents precision, quick hand movements and overall swiftness. Characters with high Agility excel at long and close range combat alike, the Agility stat's increase to the chance of evading hits also allows for them to take one on one battles with ease.
  Agility helps characters wield weapons that reward sharp and clear movements such as daggers or rapiers in the close range and bows or crossbows in the long range.
 
 WILL [WIL]: Represents resolve, intelligence and perception. This will determine how well your character understands some of the concepts of the world you're playing, such as it's history or the monsters of the world.
@@ -34,15 +32,141 @@ PRESENCE [PRS]: Represents social skills such as manipulation, intimidation and 
   Skill Checks
 In order to accomplish tasks within the game, players and NPCs alike must go through a skill check. Not every task requires a skill check, tasks that would be guaranteed for the characters to achieve can be done without a check.
 Making a skill check requires rolling a d20 and then adding the corresponding bonuses that your character might have. The bonuses are all based on the attributes which your character has. 
-A skill check can be as difficult or as easy as the GM wants it to be, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing.
+A skill check can be as difficult or as easy as the GM wants it to be, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing. (should i say the default is 10 or nah?)
 This is called a difficulty class (DC for short) the skill check will try to surpass that number with the dice roll and added bonuses. Two (or more) characters can also perform a skill check against themselves, the highest result will win the skill check.
+Certain actions, though, may simply be impossible to complete even if a high enough roll occurs. Creativity is key here and finding fun and innovative workarounds to tasks deemed impossible by the Game Master can often be the highlight of a session,
+even if they ultimately end up being trivial in the long run, just don't annoy your Game Master too much by getting sidetracked from the main goal. (Please.)
+
+&add text abt attribute checks
 
 
- Saving Throws
+# Health and Stress
+Characters in RampartRPG have two stats that describe their overall welfare and the status of their mind and body: Hit Points and Stress
 
+  Hit Points
+Hit Points (HP in short) represent a character's general physical status, all characters have a Maximum HP which is determined by a character's level and MGT rank.
+Then there is the Current HP which can constantly change and fluxuate based on the circumstances, taking damage reduces Current HP and healing effects restore it.
+Having 0 HP in combat doesn't necessarily mean you're gone for good, though, as it takes more than that to fully die. The details of dying are explained further on Chapter C pg. D
 
   Stress
-Stress is an important mechanic for combat, so when building your character it's an important stat to keep in mind. Unfortunately though, because it's a combat mechanic it would be better explained in the combat section,
+Stress is the second most important mechanic for combat, so when building your character it's an important stat to keep in mind. Unfortunately though, because it's a combat mechanic it would be better explained in the combat section,
 so in this section we'll simply cover the basics you need to know about Stress for character creation.
 In Rampart, Stress is usually obtained when casting Magical Abilities, which have Stress costs attached to them. This makes Stress a highly important stat for magic users, especially in the early game, where they won't have too much WIL.
 For further details on Stress and it's consequences on your character, please refer to Chapter C pg. D
+
+
+# Backgrounds
+Backgrounds are the history of your character that encompass various things such as where they came from or what they were doing previously in their lives.
+
+Each background provides 4 things to your character:
+# A Trained Skill
+# Some amount of Gold
+# An Item useful in Combat
+# An Item useful outside of Combat
+
+Here is a list of available backgrounds:
+
+Beggar: Skill: Streetwise. Items: Slingshot, Rope, 2d4 Pebbles, 2d4 + 2 gold.
+Outlaw: Skill: Sneak. Items: Dagger, Lockpicking Tools, 2d4 + 4 gold.
+Slave: Skill: Survival (Mastered). Items: Broken Knife, Broken Shackles, 2d4 gold.
+Peasant: Skill: Animal Handling. Items: Sickle, Torch, Improvised Medical Kit, 2d4 + 2 gold.
+Thief: Skill: Steal. Items: Knife, Climbing Tools, Rope, 2d4 + 2 gold.
+Cultist: Skill: Lore (Occult). Items: Staff, Ceremonial Robes, 2d4 gold.
+Mercenary: Skill: Athletics. Items: Longsword, 4d4 + 2 gold.
+Sailor: Skill: Swimming. Items: Handaxe, compass, 4d4 + 2 gold. 
+Scout: Skill: Navigation. Items: Javelin, Spyglass, 2d4 + 2 gold.
+Performer: Skill: Performance. Items: An Instrument, 2d4 + 4 gold.
+Craftsman: Skill: Craft. Items: Handaxe, Crafting Kit, 4d4 + 4 gold.
+Hunter: Skill: Perceive. Items: Hunting Bow, Trap Kit, 2d4 + 2 gold.
+Student: Skill: Languages. Items: Knife, Writing Kit, 4d4 + 2 gold. 
+Astrologer: Skill: Lore (Arcana). Items: Estoc, Sundial, 2d4 + 4 gold.
+Soldier: Skill: Tactics. Items: Spear, 4d4 + 4 gold.
+Scholar: Skill: Research. Items: Tome, Writing Kit, 4d4 + 4 gold.
+Acolyte: Skill: Lore (Religion). Items: Charm, Potion of Moderate Healing, 2d4 + 4 gold.
+Noble: Skill: Society. Items: Amulet, 6d4 + 4 gold.
+Aristocrat: Skill: Diplomacy. Items: Arming Sword, Empty Scrolls, 6d4 + 2 gold.
+Smith: Skill: Smithing. Items: Broadsword, Smithing Kit, 4d4 + 2 gold.
+Healer: Skill: Medicine. Items: Knife, Medical Kit, 4d4 + 2 gold.
+
+
+# Races
+At the start of character creation each player picks a race for their character and from their race they have to pick from a list of 3 traits listed below.
+
+1) Human:
+
+-Versatile: Add a +1 to a checks involing all skills you have trained or mastered.
+# Jack of All Trades: Gain a new trained skill.
+# Master of Some: Gain a +1 to on all mastered skills.
+-Skillfull: Gain and master a skill at character creation.
+# Expertise: Gain Expertise with a skill you have mastered.
+# Cross-Training: Temporarily become trained a new skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day.
+-Ambitious: Increase your Stress Threshold by 2.
+# Through the Flames: Once per day, you can gain 1 stress point and in return you can add 1d6 to a roll you make.
+# Adventurer's Heart: Increase ST by 1 more and you lose 1d8 stress during-partial rests instead of 1d4
+
+2) Elf:
+
+-Elven Archery: +1 to all attacks made using regular bows (shortbow longbow hunting bow composite bow)
+# Sure Shot: When you make a ranged attack with a regular bow and miss, you may reroll the attack once per encounter. You must keep the second result.
+# Modernized Archery: You gain +1 to all ranged attacks, regardless of weapon type and you can use Heavy Ranged weapons without meeting the MIGHT requirement.
+-Graceful Movement: You ignore movement penalties from rough terrain and gain +5ft to your speed.
+# Wind's Stride: Your speed increases by another +5 ft (total +10 ft), and once per day you may Dash as a free action.
+# Elusive Step: Once per day you can move through enemy spaces as if they were empty and do not provoke Attacks of Opportunity during this movement.
+-Feyvision: You can see in darkness up to 30 feet as if it were dim light. Additionally, you can sense invisible creatures within 10 feet of you.
+# Beyond the Shadows: You can now see in darkness perfectly up to 120 feet and can see invisible creatures within 15 feet of you.
+
+
+3) Dwarf:
+
+-Darkvision: You can see in complete darkness up to 120 ft.
+# Deepdarker's Senses: You are immune to being blinded and Once per long rest, you may place your hand on the ground and sense the presence of all creatures within 30 feet this takes 1 action.
+-Stoneborn Resiliance: Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
+# Warrior's Soul: Once per long rest while in the dying condition you can remove one Mark of Death from yourself.
+# Stone's Strength: Gain an additional +1 to your hit points whenever you gain a level.
+-Rockhard: You take half damage from the Poisoned condition’s ongoing damage and gain +2 bonus to saving throws against being inflicted with the Poisoned condition.
+# Stoneflesh: You are immune to the Poisoned condition.
+
+4) Gnome:
+
+-Nimble: Gain a +1 to your AC when you are not wearing heavy or medium armor.
+# Fast Reflexes: Gain an additional +1 to your AC when meet these conditions.
+# Armored Acrobat: You don't need to meet the requirements for the AC bonus.
+-Keen Senses: Gain +2 to your initiative.
+# Quick Reaction: Gain an additional +1 to your initiative and increase your speed by 5 feet.
+-Small Tinkerer: Gain and master the Crafting Skill at character creation.
+# Expert Crafter: Become an expert with the crafting skill.
+# Small Magi: Gain and master the Spellcraft skill.
+
+5) Goblin:
+
+-Tricky Escape: The Disengage action costs 1 action instead 2.
+-Fleet-Footed: Your base speed increases by 5ft and you can use your full speed when climbing.
+-Hard Bite: Gain a natural bite attack dealing 1d4 + MGT damage.
+
+6) Dragonborn:
+
+-Scaled Resilience: You take half damage from the Burning condition’s ongoing damage and gain +2 bonus to saving throws against being inflicted with the Burning condition.
+-Fire Breath: You can make a natural breath attack that deals 1 damage and applies the Burning condition (DC 10 MGT save to resist).
+-Tough Scales: You have natural armor with AC12 and a agility cap of 2.
+
+7) Orc:
+
+-Bloodthirsty: Gain the Enraged condition and a +1 to all attack rolls for 3 turns when you fall below half HP.
+-Savage Strength: Ignore the penalites of the Heavy tag on weapons.
+-Greatweapon Handling: +1 to all attacks made using heavy weapons.
+
+8) Halfling:
+
+-Calm Mind: Recover 1d4 stress after finishing an engagement.
+-Steadfast: Gain +2 bonus to saving throws against being Slowed and Restrained.
+-Hardy Constitution: You gain 1 less damage from damage over time conditions.
+
+9) Tiefling:
+
+
+
+ #Creating Your Character
+Finally for this chapter, here is a step-by-step guide on how to create a player character in RampartRPG.
+Step 1: Get a blank character sheet. You can find the empty sheet in pdf form on our website.
+Step 2: Pick a race and background from the lists found on this chapter.
+
