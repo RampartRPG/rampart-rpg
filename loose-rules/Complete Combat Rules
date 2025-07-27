@@ -1,59 +1,59 @@
     Complete Combat Rules
 
 RampartRPG can be broadly split into 2 styles of play both of which are observed regularly in most games: Exploration and Combat. 
-When characters enter Combat the games rules tigthen and characters can not move freely and take actions as they please. They are bound by an action economy which works with turns.
+When characters enter Combat the game's rules tighten and characters cannot move freely and take actions as they please. They are bound by an action economy which operates in turns.
 In combat movement is also precisely measured by grids and each character can only move up to a certain amount of tiles within a single turn.
 This stricter ruleset allows for battles to be more strategic and tactical.
 
-  Initiatve
+  Initiative
 
 The game switches from Exploration mode to Combat Mode through the use of an Initiatve Roll. Initiative is used to determine who goes first in combat and how the turns will play out.
 If a party was attacked without their knowledge such as a surprise attack instead of an Initiative Roll the attacking side goes first.
 When an actively hostile group notices the players or someone attacks another group. The GM asks for the character with the highest PRESENCE on either side to roll a Presence Attribute Check.
-This is called an Initiative Roll. The side which rolled higher has gets their turn first. The side with the higher roll decides among themselves who is going to be first.
+This is called an Initiative Roll. The side which rolled higher has their turn first. The side with the higher roll decides among themselves who is going to be first.
 The character picked finishes their turn and picks another member on their side to continue. This continues onwards until all the characters on one side have finished their turns.
-This order they made isn't fixed in place and every round they can act in whichever order they please according to these rules.
+This order isn't fixed in place and every round they can act in whichever order they please according to these rules.
 
   Action Economy
 
-One turn is 12 seconds of ingame time and during a turn each character has three action slots each roughly taking 3-4 seconds of time.
+One turn is 12 seconds of in-game time and during a turn each character has three action slots each roughly taking 3-4 seconds of time.
 These slots are used to perform actions which can range from very simple (Moving, Attack, Interacting) to very complex (Battle Manevuers, Casting Spells, Battle Actions). 
 Each action takes a certain amount of action slots to perform with the minimum being 1 and maximum being 3.
-Doing about almost anything during combat spends some amount of action slots so there are no free actions, bonus actions or reactions.
+Doing almost anything during combat spends some amount of action slots so there are no free actions, bonus actions, or reactions.
 The time it takes for all members of all parties to finish their turns is called a Round. You can also measure a round as the time it took for you to get your turn again after playing.
 The length of rounds can range anywhere from 30 seconds to 2 minutes of ingame time.
 
   Actions in Combat
 
-Most acts player's can think of have been mechanized into the game in some form as an Action in Combat. These actions can be classified into two categories: Simple and Complex Actions.
+Most acts players can think of have been mechanized into the game in some form as an Action in Combat. These actions can be classified into two categories: Simple and Complex Actions.
 The definition of these categories is rather loose and is mostly based on vibes and mechanical complexity. More often than not complex actions will involve an attribute check.
 
 # Simple Actions include: Attacking, Moving, Interacting, Casting a Spell etc.
 # Complex Actions include: Performing Maneuvers, Dashing, Grappling, Feinting an Attack, Aiming etc.
 
-A complete list of actions can be found at the end of this segment, it is highly advised that player's familiarize themselves with all of them and if necessary carry around
+A complete list of actions can be found at the end of this segment, it is highly advised that players familiarize themselves with all of them and if necessary carry around
 a piece of paper with the descriptions of each action present on them. The better a player knows the actions they can take the more powerful their character usually ends up being.
 
   Movement and Grids
 
 In combat moving around doesn't happen in a carefree way unlike in exploration mode. When a character's turn comes they have to use the Move action to move around a gridded map.
 A character can move up to their SPEED in a single turn. (SPEED = 25 + 5ft * AGI modifier)
-Each tile in the gridded battlemap repressents 5ft of space so a character with 30ft of SPEED can move up to 6 tiles in their turn.
+Each tile in the gridded battlemap represents 5ft of space so a character with 30ft of SPEED can move up to 6 tiles in their turn.
 A character doesn't have to move their entire speed in a single move action and they can take multiple move actions in a single turn but during this turn they can only move up to their SPEED.
 There are other Actions which let a character move such as: Dash and Disengage and they can be found in the list of actions at the end of this segment.
 
   Armors and Armor Class
 
-Armor Class or AC repressents how hard a target is to hit. Higher the AC harder it is to damage the target.
-AC repressents both how agile a character is and how hard their armor is, agile foes are harder to hit and heavier armors tend to absorb hits more.
+Armor Class or AC represents how hard a target is to hit. The higher the AC, the harder it is to damage the target.
+AC represents both how agile a character is and how hard their armor is, agile foes are harder to hit, while heavier armors tend to absorb hits more.
 AC is calculated as: AC = 10 + Armor Bonus + AGI Bonus up to the AGI Cap of the armor. Every character has an AC and thus every character can be hit!
 There are many ways to increase your AC during combat such as equipping a weapon with the Defensive tag, taking cover behind an object or using the defend action.
 Armors contribute the most to AC so do not skip out on it! A complete list of armors can be found at the end of this segment.
 
   Attack Rolls
 
-In combat, the most basic and common thing that happens is player's making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or AGI) against a target's AC (Armor Class). (1 Action Slot)
-Attack Rolls are your likelyhood of hitting your enemy properly and if you've dealt damage to them.
+In combat, the most basic and common thing that happens is players making attack rolls with melee or ranged weapons (an attack role is calculated as d20 + MGT or AGI) against a target's AC (Armor Class). (1 Action Slot)
+Attack Rolls are your likelihood of hitting your enemy properly and if you've dealt damage to them.
 These rolls can have these results:
 
 # Critical Failure: Happens when you roll a 1 on your d20 or roll 10 points below the target AC. You miss your attack and your target gets an Attack of Opportunity against you.
@@ -62,46 +62,46 @@ These rolls can have these results:
 # Success: Happens when you roll above or at the target AC. You succeed in your attack and roll for damage.
 # Critical Success: Happens when you roll a 20 on your d20 or roll 10 points above the target AC. You succeed in your attack and roll for damage but you can choose to either deal double damage or apply the bleeding condition.
 
-Multipile Attack Penalty or MAP for short is a mechanic to stop character's from spamming 3 attacks every turn and forces them to be creative and use more of their toolsets.
-Whene a character attacks in their turn and decides to attack again in the same turn they receive a -3 to their second attack roll, and if they decide to attack once again for a third time they receive a -7.
+Multiple Attack Penalty or MAP for short is a mechanic to stop character's from spamming 3 attacks every turn and forces them to be creative and use more of their toolsets.
+When a character attacks in their turn and decides to attack again in the same turn they receive a -3 to their second attack roll, and if they decide to attack once again for a third time they receive a -7.
 This way players can still attack multiple times but aren't really encouraged to.
 
   Damage Rolls and Weapons
 
 Damage measures how much harm you've done to your target and its subtracted from their HP. There are no damage types in RampartRPG all damage is flat.
 The damage of your attack deals are a mix of your weapon's dice and your character's attributes. Each weapon has a set of dice called "Damage Dice" attached to them. 
-They range from 1d4 to 1d12/2d6/3d4. Tese make the backbone of your damage and your character's MIGHT or AGILITY act like additions to it.
+They range from 1d4 to 1d12/2d6/3d4. these make the backbone of your damage and your character's MIGHT or AGILITY act like additions to it.
 The damage of melee weapons are calculated as the weapon's dice + the MIGHT modifier of the character using it.
 The damage of ranged weapons are calculated as the weapon's dice + the AGILITY modifier of the character using it.
 Melee weapons with the Finesse tag can be used with AGILITY modifier if the character using it prefers that, these weapons usually use dexterity and quick movements more than brute strength.
 
-The dice aren't the only thing which defines a weapon. Each weapon has a unique set of tags attached to them which alter how its used from the usual and every weapon also has a unique Maneuver attached ot it.
-Maneuvers are highly useful specific techniques which give weapons identiy explanation of each weapons Manuver can be found in the list of weapons at the end of this segment.
+The dice aren't the only thing which defines a weapon. Each weapon has a unique set of tags attached to them which alter how its used from the usual and every weapon also has a unique Maneuver attached to it.
+Maneuvers are highly useful specific techniques which give weapons identiy. An explanation of each weapon's Manuver can be found in the list of weapons at the end of this segment.
 
   Weapon Handling
 
-Each player character has two hands unless explicitly stated otherwise, so they can have upto two weapons equiped at any given them.
-In most combat scenarios it is expected that the party doesn't have their weapons equiped unless they were preparing for combat or had stated that they drew their weapons before the start of combat.
+Each player character has two hands unless explicitly stated otherwise, so they can have up to two weapons equipped at any given them.
+In most combat scenarios it is expected that the party doesn't have their weapons equipped unless they were preparing for combat or had stated that they drew their weapons before the start of combat.
 During combat, drawing a regular weapon costs only a single action under the *Interact* action. This act lets you draw one weapon, if this weapon is single-handed then by default you draw it with only one hand.
 If its two-handed then by default you draw it with two, but for versatile weapons you can choose if you want to use it with one or two hands.
 If you want to switch between single-handed and two-handed modes on a versatile weapon that also takes a single *Interact* action.
 
-Stowing a weapon back into its sheat or your backpack also takes one *Interact* action. All the rules stated in drawing apply to stowing as well. 
+Stowing a weapon back into its sheath or your backpack also takes one *Interact* action. All the rules stated in drawing apply to stowing as well. 
 Dropping a weapon, throwing it to an ally or handing it to an ally costs one *Interact* action also. But throwing requires a successful AGI check with DC varying from situation to situation.
-If a player has two weapons equiped they can use either one completely independent from the other one.
+If a player has two weapons equipped they can use either one completely independent from the other one.
 
 Some weapon tags have special cases for weapon handling:
-# Heavy: Weapons with the heavy tag require 2 actions to draw and stow. They also requires 13+ MGT to use without a -2 to penalty to all attack roles.
+# Heavy: Weapons with the heavy tag require 2 actions to draw and stow. They also requires 13+ MGT to use without a -2 penalty to all attack rolls.
 # Light: Weapons with the light tag can drawn or stowed once per round for free. They also lower the *MAP* by 1 making them -2 and -6 respectively.
 
 
   Attacks of Opportunity
 
-Attacks of Opportunity are a special type of attack performed outside of the usual turn order. They require a (trigger) to occur and can only be used right after one.
+Attacks of Opportunity are a special type of attack performed outside of the usual turn order. They require a trigger to occur and can only be used right after one.
 When another character provokes a trigger, your character can perform an Attack of Opportunity against them with a regular attack and damage roll. These triggers include:
 # Trying to move outside of a character's melee range without using the disengage action.
 # Critically failing an attack roll against a character.
-# Trying to attack a character using a ranged weapon within their melee range.
+# Attacking a character with a ranged weapon while within their melee range.
 
 A character can't use multiple attacks of Opportunity in a single round.
 
@@ -113,7 +113,7 @@ Whenever a character receives some sort of damage they subtract that from their 
 
 There are a few ways to regain lost HP such as: Potions, Spells, First Aid, Medical Kits and the most common way: Resting.
 The amount of HP each of these sources replenish are specific to them.
-Resting replenishes HP based on the quality and length or rest which can be classified into 2 categories:
+Resting replenishes HP based on the quality and length of rest which can be classified into 2 categories:
 # Half-Rest: Length of	30 Minutes to 2 Hours in less than ideal conditions: Regain 2d6 + MGT modifier HP.
 # Full-Rest: Length of	6 - 10 Hours in a bed or similar: Regain Maximum HP.
 
@@ -121,7 +121,7 @@ When a character's HP is reduced to 0, they become Incapacitated and gain the Dy
 The Unconscious condition makes it so that the character can not take any actions during their turn and are functionally out of the picture.
 The Dying condition however lets the character take one specific action during their turn bypassing the Unconscious condition this is the Resist Death action.
 
-The Prevent Death takes three action slots and makes the character roll a MGT Attribute Check with DC10 on a:
+The Resist Death takes three action slots and makes the character roll a MGT Attribute Check with DC10 on a:
 # Critical Success: The character loses both the Dying and Unconscious conditions and gets up with 1 HP.
 # Success: The character loses the Dying condition but remains Unconscious until they rest or are healed by other means. All death markers are erased as well.
 # Failure: The character gains one Death Marker and the conditions remain as they are.
@@ -134,14 +134,14 @@ There are various ways to bring back characters from the dead but they are mostl
 
   Stress
 
-Stress measures the physical and mental strain put on your character. Your Stress Threshold ST which is your character's capacity of enduring stress.
+Stress measures the physical and mental strain put on your character. Your Stress Threshold (ST), which is your character's capacity of enduring stress.
 Stress Threshold is calculated as: ST = 4 + WIL modifier + LV.
 
 When your character encounters stressful situations they gain some amount of stress. Some examples of stress inducing situations are:
 Using magical or unstable abilities. Failing a save against fear, horror, or mind control. Enduring traumatic or exhausting events.
-Taking Massive Damage ((Damage higher or equal to your Maximum HP) dealing 1 point of stress.
+Taking Massive Damage (Damage higher or equal to your Maximum HP) dealing 1 point of stress.
 
-There are many ways of reducing stress such as: Abilitie, Spells, Potions and most common way: Resting.
+There are many ways of reducing stress such as: Abilities, Spells, Potions and most common way: Resting.
 The amount of Stress Reduced are specific to the type of rest you had:
 # Half-Rest: Length of	30 Minutes to 2 Hours in less than ideal conditions: Remove 1d4 Stress Points.
 # Full-Rest: Length of	6 - 10 Hours in a bed or similar: Remove all Stress Points.
@@ -154,16 +154,16 @@ When your stress goes above your Stress Threshold you have to make WIL Attribute
 
   Wounds
 
-Wounds are permanent debuff your character receives on special occasions there are two types of wounds repressenting physical and mental wounds:
-# Scars are brutal reminders of heroes who have walked too close to death. They repressent physical wounds from past conflict.
-# Traumas are psychological conditions of those who reached their limits. They repressent mental wounds from past conflict.
+Wounds are permanent debuff your character receives on special occasions there are two types of wounds representing physical and mental wounds:
+# Scars are brutal reminders of heroes who have walked too close to death. They represent physical wounds from past conflict.
+# Traumas are psychological conditions of those who reached their limits. They represent mental wounds from past conflict.
 
 A character can only have up to 3 scars and 3 traumas on them, if a character receives another scar or trauma while already having three: The character breaks and either dies or becomes unplayable.
 
 The two main ways of receiving scars are:
 # Getting hit with Massive Damage (Damage higher or equal to your Maximum HP).
 # Reaching 2 Death Markers.
-When either of these things happen, the character can either pick an appropiate scar from the scar table or roll for it. The scar will stay with them until they can heal it at higher levels.
+When either of these things happen, the character can either pick an appropriate scar from the scar table or roll for it. The scar will stay with them until they can heal it at higher levels.
 Reaching levels 5th and 10th allows a player to remove one scar from their character.
 
 The only way to obtain a trauma is:
@@ -184,17 +184,17 @@ depending on the type of condition you're trying to lose.
 # Mental Conditions: Roll a DC10 WIL save and on a success get rid of the condition.
 
 Weapon conditions by default do not have a time limit, they retain the condition until a character does something to remove it.
-# Fixing Broken Weapons: Requires the use of a *Smith's Tools* *Tinkering Kit* or a subsitute item, and a successful DC10
+# Fixing Broken Weapons: Requires the use of a *Smith's Tools* *Tinkering Kit* or a substitute item, and a successful DC10
 Smithing, Crafting, Tinkering or another appropiate skill check. This takes 1 action during combat.
 Alternatively a Blacksmith or another professional can remove the condition for the cost of half the weapon's worth.
-# Fixing Destroyed Weapons: Requires the use of a *Smith's Tools* *Tinkering Kit* or a subsitute item, and a successful DC15
+# Fixing Destroyed Weapons: Requires the use of a *Smith's Tools* *Tinkering Kit* or a substitute item, and a successful DC15
 Smithing, Crafting, Tinkering or another appropiate skill check. This takes 2 actions during combat.
 Alternatively a Blacksmith or another professional can remove the condition for the cost of 3/4s the weapon's worth.
 # Losing the Sharpened Condition: The sharpened condition is lost after a character misses an attack roll with this weapon.
 
   Flanking and Cover
 
-Flanking an enemy is a tactic which is rather useful in battle, if two characters on the same side surround an opposing character by standing at opposites sides of them its called flanking.
+Flanking an enemy is a tactic which is rather useful in battle, if two characters on the same side surround an opposing character by standing at opposite sides of them its called flanking.
 Characters which are flanking the target gain a +2 to the attack rolls they make against the flanked target.
 
 Cover is a way to hide from danger, characters can hide behind objects or other characters during combat giving a -2 to attack rolls made against them.
