@@ -33,9 +33,11 @@ PRESENCE [PRS]: Represents social skills such as manipulation, intimidation and 
 In order to accomplish tasks within the game, players and NPCs alike must go through a skill check. Not every task requires a skill check, tasks that would be guaranteed for the characters to achieve can be done without a check.
 Making a skill check requires rolling a d20 and then adding the corresponding bonuses that your character might have. The bonuses are all based on the attributes which your character has. 
 A skill check can be as difficult or as easy as the GM wants it to be, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing. (should i say the default is 10 or nah?)
+// Nope there is no "default"
 This is called a difficulty class (DC for short) the skill check will try to surpass that number with the dice roll and added bonuses. Two (or more) characters can also perform a skill check against themselves, the highest result will win the skill check.
 Certain actions, though, may simply be impossible to complete even if a high enough roll occurs. Creativity is key here and finding fun and innovative workarounds to tasks deemed impossible by the Game Master can often be the highlight of a session,
 even if they ultimately end up being trivial in the long run, just don't annoy your Game Master too much by getting sidetracked from the main goal. (Please.)
+// Please add the stuff from dice resolutions to here
 
 &add text abt attribute checks
 
