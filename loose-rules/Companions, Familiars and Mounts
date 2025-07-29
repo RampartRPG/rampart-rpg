@@ -1,1 +1,19 @@
+Companions are creatures which are bound to a character and won't act without their input.
+Magical Companions are referred to as Familiars, and Companions which can be rode are referred to as Mounts.
+
+A character has as many Companion Slots as their PRESENCE modifier. Every companion takes some amount of Slots. A character with negative or 0 PRESENCE modifier can't have any companions.
+Some companions may need a character to meet or exceed a PRESENCE requirement, this is usually reserved for more powerful ones.
+
+
+Companions act during their owner's turn and only when they are commanded via the Command (1) action. This action allows for one companion within range to execute to 2 action slots' worth of actions.
+Companions are still bound by the 3 action economy so using a second Command action only allows for 1 action slot's worth of actions.
+Companions can only use Companion acts and any additional acts listed under them.
+
+Companion Tags:
+Mount: Creatures which can be rode.
+Beast: Creatures which are natural to the world: Animals.
+Magical: Creatures which exist through magic: Golems, Summons.
+
+Companion Stats:
+HP, Speed (Land/Air/Water/Climb), PRS Requirement, AC, Attributes, Slots, Attacks, Special Actions.
 
