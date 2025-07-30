@@ -41,8 +41,8 @@ At the start of character creation each player picks a race for their character 
 -Nimble: Gain a +1 to your AC when you are not wearing heavy or medium armor.
 # Fast Reflexes: Gain an additional +1 to your AC when meet these conditions.
 # Armored Acrobat: You don't need to meet the requirements for the AC bonus.
--Keen Senses: Gain +2 to your initiative.
-# Quick Reaction: Gain an additional +1 to your initiative and increase your speed by 5 feet.
+-Keen Senses: Even if you do not have the highest PRESENCE in your party you can choose to be the one rolling initiative and you gain +2 to your initiative rolls.
+# Quick Reaction: Gain an additional +2 to your initiative rolls and increase your speed by 5 feet.
 -Small Tinkerer: Gain and master the Crafting Skill at character creation.
 # Expert Crafter: Become an expert with the crafting skill.
 # Small Magi: Gain and master the Spellcraft skill.
@@ -50,14 +50,23 @@ At the start of character creation each player picks a race for their character 
 5) Goblin:
 
 -Tricky Escape: The Disengage action costs 1 action instead 2.
+# Master Evader: You can move your full speed with the Disengage action.
 -Fleet-Footed: Your base speed increases by 5ft and you can use your full speed when climbing.
+# Pack Hunters: You gain an additional +2 to your flanking bonus.
 -Hard Bite: Gain a natural bite attack dealing 1d4 + MGT damage.
+# Agile Bite: Your bite attack gains the FINESSE tag and now deals 1d8 + MGT/AGI damage.
+# Stronger Bite: Your bite attack deals 1d10 + MGT damage and on a successful roll forces the target to make a DC12 MGT attribute check and gain the Bleeding condition on a failure.
 
 6) Dragonborn:
 
 -Scaled Resilience: You take half damage from the Burning condition’s ongoing damage and gain +2 bonus to saving throws against being inflicted with the Burning condition.
+# Through the Fire: You are immune to the Burning condition.
+# And the Flames: Whenever you succeed a roll against gaining the Burning Condition you recover 1d6 + 1 health.
 -Fire Breath: You can make a natural breath attack that deals 1 damage and applies the Burning condition (DC 10 MGT save to resist).
+# Draconic Breath: Your breath weapon now deals 1d6 damage instead of 1.
 -Tough Scales: You have natural armor with AC12 and a agility cap of 2.
+# Hardened Scales: Your natural armor's AC increases to 14 but the agility cap drops to 1. You gain +2 bonus to saving throws against being inflicted with the Restrained condition.
+# Flexible Scales: Your natural armor's agility cap increases to 4.
 
 7) Orc:
 
