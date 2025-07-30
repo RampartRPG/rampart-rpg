@@ -90,6 +90,15 @@ At the start of character creation each player picks a race for their character 
 
 9) Hellspawn
 
+-Innate Conduit: You don't suffer from not using a conduit when casting spells but you can not gain benefits from one either.
+# Blood Mage: Whenever you're casting a Spell you can reduce its stress cost by taking thrice the amount of it as damage. You can't lower a Spell's stress cost to 0.
+# Sorcerous Knowledge: You can benefit from conduits and gain one additional Spell.
+-Bat Wings: Gain 15ft of flying speed.
+# Devilish Wings: Increase your flying speed by 15ft + 5ft * AGI.
+-Eerie Beauty: Become trained in the Persuasion or Intimidation skills.
+# Infernal Presence: Master either the Persuasion or the Intimidation skills.
+# Lying Tongue: Become trained in the Deception skill.
+
 10) Beastkin
 
 11) Construct
