@@ -71,15 +71,30 @@ At the start of character creation each player picks a race for their character 
 7) Orc:
 
 -Bloodthirsty: Gain the Enraged condition and a +1 to all attack rolls for 3 turns when you fall below half HP.
+# Unleash the Beast: You gain an additional +1 to all attack rolls while enraged and deal +1 more damage. You are immune to all other mental conditions while enraged. 
+# Grappling Death: When you become enraged gain 1d4 + MGT HP points.
 -Savage Strength: Ignore the penalites of the Heavy tag on weapons.
+# Brute's Might: Weapon's with the Brutal tag can now crit on an 18 as well as its default 19 and 20.
 -Greatweapon Handling: +1 to all attacks made using heavy weapons.
+# Colossal Damage: On a critical hit you now deal triple damage instead of double damage but you don't get to choose between that and inflicting the Bleeding condition. 
 
 8) Halfling:
 
 -Calm Mind: Recover 1d4 stress after finishing an engagement.
+# Steady Spirit: Recover 1d6 + 1 stress instead of 1d4.
+# Inner Peace: Gain +2 bonus to saving throws against being Enraged, Intimidated and Taunted.
 -Steadfast: Gain +2 bonus to saving throws against being Slowed and Restrained.
+# Unyielding: Gain an additional +2 to saving throws against being Slowed and Restrained.
 -Hardy Constitution: You gain 1 less damage from damage over time conditions.
+# Short Vitality: You gain 2 less damage from damage over time conditions instead of 1.
 
+9) Hellspawn
+
+10) Beastkin
+
+11) Construct
+
+12) Birdfolk
 
 
 
