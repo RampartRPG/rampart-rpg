@@ -6,12 +6,12 @@ At the start of character creation each player picks a race for their character 
 
 -Versatile: Add a +1 to a checks involing all skills you have trained or mastered.
 # Jack of All Trades: Gain a new trained skill.
-# Master of Some: Gain a +1 to on all mastered skills.
+# Master of Some: Gain a +1 to on all mastered and experted skills.
 -Skillfull: Gain and master a skill at character creation.
 # Expertise: Gain Expertise with a skill you have mastered.
-# Cross-Training: Temporarily become trained a new skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day.
+# Cross-Training: Temporarily become trained a new skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day. You can't benefit more than once from this.
 -Ambitious: Increase your Stress Threshold by 2.
-# Through the Flames: Once per day, you can gain 1 stress point and in return you can add 1d6 to a roll you make.
+# Battle Hardened: Once per day, you can gain 1 stress point and in return you can add 1d6 to a roll you make.
 # Adventurer's Heart: Increase ST by 1 more and you lose 1d8 stress during-partial rests instead of 1d4
 
 2) Elf:
@@ -93,11 +93,11 @@ At the start of character creation each player picks a race for their character 
 -Innate Conduit: You don't suffer from not using a conduit when casting spells but you can not gain benefits from one either.
 # Blood Mage: Whenever you're casting a Spell you can reduce its stress cost by taking thrice the amount of it as damage. You can't lower a Spell's stress cost to 0.
 # Sorcerous Knowledge: You can benefit from conduits and gain one additional Spell.
--Bat Wings: Gain 15ft of flying speed.
-# Devilish Wings: Increase your flying speed by 15ft + 5ft * AGI.
--Eerie Beauty: Become trained in the Persuasion or Intimidation skills.
-# Infernal Presence: Master either the Persuasion or the Intimidation skills.
-# Lying Tongue: Become trained in the Deception skill.
+-Infernal Presence: Gain a +1 to all PRESENCE related skill checks.
+# Hellish Adaptation: Temporarily become trained in a PRESENCE related skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day. You can't benefit more than once from this.
+# Devil's Tongue: You gain a +2 on all skill checks involving lies.
+-Bat Wings: You have a flying speed of 30ft when you aren't wearing medium or heavy armor.
+# Devilish Wings: You can use your full flying speed while wearing medium armor and half your flying speed while wearing heavy armor.
 
 10) Beastkin
 
