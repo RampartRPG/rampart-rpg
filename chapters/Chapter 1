@@ -150,33 +150,77 @@ At the start of character creation each player picks a race for their character 
 5) Goblin:
 
 -Tricky Escape: The Disengage action costs 1 action instead 2.
+# Master Evader: You can move your full speed with the Disengage action.
 -Fleet-Footed: Your base speed increases by 5ft and you can use your full speed when climbing.
+# Pack Hunters: You gain an additional +2 to your flanking bonus.
 -Hard Bite: Gain a natural bite attack dealing 1d4 + MGT damage.
+# Agile Bite: Your bite attack gains the FINESSE tag and now deals 1d8 + MGT/AGI damage.
+# Stronger Bite: Your bite attack deals 1d10 + MGT damage and on a successful roll forces the target to make a DC12 MGT attribute check and gain the Bleeding condition on a failure.
 
 6) Dragonborn:
 
 -Scaled Resilience: You take half damage from the Burning condition’s ongoing damage and gain +2 bonus to saving throws against being inflicted with the Burning condition.
+# Through the Fire: You are immune to the Burning condition.
+# And the Flames: Whenever you succeed a roll against gaining the Burning Condition you recover 1d6 + 1 health.
 -Fire Breath: You can make a natural breath attack that deals 1 damage and applies the Burning condition (DC 10 MGT save to resist).
+# Draconic Breath: Your breath weapon now deals 1d6 damage instead of 1.
 -Tough Scales: You have natural armor with AC12 and a agility cap of 2.
+# Hardened Scales: Your natural armor's AC increases to 14 but the agility cap drops to 1. You gain +2 bonus to saving throws against being inflicted with the Restrained condition.
+# Flexible Scales: Your natural armor's agility cap increases to 4.
 
 7) Orc:
 
 -Bloodthirsty: Gain the Enraged condition and a +1 to all attack rolls for 3 turns when you fall below half HP.
+# Unleash the Beast: You gain an additional +1 to all attack rolls while enraged and deal +1 more damage. You are immune to all other mental conditions while enraged. 
+# Grappling Death: When you become enraged gain 1d4 + MGT HP points.
 -Savage Strength: Ignore the penalites of the Heavy tag on weapons.
+# Brute's Might: Weapon's with the Brutal tag can now crit on an 18 as well as its default 19 and 20.
 -Greatweapon Handling: +1 to all attacks made using heavy weapons.
+# Colossal Damage: On a critical hit you now deal triple damage instead of double damage but you don't get to choose between that and inflicting the Bleeding condition. 
 
 8) Halfling:
 
 -Calm Mind: Recover 1d4 stress after finishing an engagement.
+# Steady Spirit: Recover 1d6 + 1 stress instead of 1d4.
+# Inner Peace: Gain +2 bonus to saving throws against being Enraged, Intimidated and Taunted.
 -Steadfast: Gain +2 bonus to saving throws against being Slowed and Restrained.
+# Unyielding: Gain an additional +2 to saving throws against being Slowed and Restrained.
 -Hardy Constitution: You gain 1 less damage from damage over time conditions.
+# Short Vitality: You gain 2 less damage from damage over time conditions instead of 1.
 
-9) Tiefling:
+9) Hellspawn:
+
+-Innate Conduit: You don't suffer from not using a conduit when casting spells but you can not gain benefits from one either.
+# Blood Mage: Whenever you're casting a Spell you can reduce its stress cost by taking thrice the amount of it as damage. You can't lower a Spell's stress cost to 0.
+# Sorcerous Knowledge: You can benefit from conduits and gain one additional Spell.
+-Infernal Presence: Gain a +1 to all PRESENCE related skill checks.
+# Hellish Adaptation: Temporarily become trained in a PRESENCE related skill by studying during rest, this turns your full-rest into partial-rest and the effects last for a day. You can't benefit more than once from this.
+# Devil's Tongue: You gain a +2 on all skill checks involving lies.
+-Bat Wings: You have a flying speed of 30ft when you aren't wearing medium or heavy armor.
+# Devilish Wings: You can use your full flying speed while wearing medium armor and half your flying speed while wearing heavy armor.
+
+10) Beastkin:
+
+11) Construct:
+-Innate Armor: You gain a +1 to your AC.
+# Resiliant Being: You are immune to disease. You don’t need to eat, drink, or breathe, and you take half damage from poison's damage over time.
+# Sturdy Armor: You gain an additional +1 to your AC.
+-Built with a Purpose: You have one set of tools built into your hand, you can use these tools without consuming them and they can't be taken from you. You become trained with the skill of these tools.
+# Proficient: You master the skill of these tools.
+# War Machine: Choose one melee weapon when you gain this upgrade. You can morph your integrated tools into that weapon as an action. 
+-Guardian's Rest: When resting you remain motionless yet conscious of your surroundings and can hear and see as usual. 
+# Calm Protector: You regain 1d8 stress points instead of 1d4 during half rest.
+
+12) Birdfolk:
+
+13) Tiefling:
 
 
 
  #Creating Your Character
 Finally for this chapter, here is a step-by-step guide on how to create a player character in RampartRPG.
-Step 1: Get a blank character sheet. You can find the empty sheet in pdf form on our website.
+Step 1: Get a blank character sheet. You can find the empty sheet in pdf form on our website. (link)
 Step 2: Pick a race and background from the lists found on this chapter.
+Step 3: Assign your Attribute Points
+Step 4:
 
