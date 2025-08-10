@@ -11,7 +11,7 @@ Creating the world for your campaign, which should be done before playing.
 Pay close attention to the Game Master's guide (Chapter A, pg. B) where creating a plan for the campaign is explained in more detail.
 
 
-  Attributes
+# Attributes
 Attributes are used to determine a character's strengths and weaknesses. These four main stats are what determine who your character is and what they are honing their arts towards. (im over here honing my arts i got stats on my art rn)
  When you are creating your character you'll be able to pick what rank these stats start out as, the higher these stats are the higher your bonus is for matching skill checks.
  Here is a brief explanation of what each attribute represents:
@@ -29,18 +29,26 @@ PRESENCE [PRS]: Represents social skills such as manipulation, intimidation and 
   it could be helpful in getting them out of it. (or into it, but with bonuses!) 
 
 
-  Skill Checks
+# Skill Checks
 In order to accomplish tasks within the game, players and NPCs alike must go through a skill check. Not every task requires a skill check, tasks that would be guaranteed for the characters to achieve can be done without a check.
 Making a skill check requires rolling a d20 and then adding the corresponding bonuses that your character might have. The bonuses are all based on the attributes which your character has. 
-A skill check can be as difficult or as easy as the GM wants it to be, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing. (should i say the default is 10 or nah?)
-// Nope there is no "default"
+A skill check can be as difficult or as easy as the GM wants it to be, they will pick a number based on how difficult it should be for the average person in the world of the game to perform the action and the one performing.
 This is called a difficulty class (DC for short) the skill check will try to surpass that number with the dice roll and added bonuses. Two (or more) characters can also perform a skill check against themselves, the highest result will win the skill check.
 Certain actions, though, may simply be impossible to complete even if a high enough roll occurs. Creativity is key here and finding fun and innovative workarounds to tasks deemed impossible by the Game Master can often be the highlight of a session,
 even if they ultimately end up being trivial in the long run, just don't annoy your Game Master too much by getting sidetracked from the main goal. (Please.)
-// Please add the stuff from dice resolutions to here
 
-&add text abt attribute checks
+  Attribute Checks
+There are also Attribute Checks, they are very similar to Skill Checks and they both use the D20. The difference between Attribute and Skill Checks are as follows:
+Attribute Checks are raw tests of power: You roll a d20 + The relevant attribute modifier and compare it to the DC you're rolling for.
+Skill Checks are tests of finer work: You roll a d20 + The relevant attribute modifier + The relevant skill modifier and compare it to the DC you're rolling for.
+Players can attempt to turn Attribute Checks into Skill Checks if the skill in question is conceivably a part of the action the character is attempting.
 
+  Levels of Success (and Failure)
+Each roll has a certain degree of success. Put into 4 categories, these are:
+Critical Failure: Happens when you roll a 1 on your d20 or roll 10 points below the target DC. It means that you have disastrously failed at your attempt and will suffer consequences of the GM's choice. 
+Failure: Happens when you roll under the target DC. It means your attempt has failed.
+Success: Happens when you roll above or at the target DC. It means your attempt has succeeded.
+Critical Success: Happens when you roll a 20 on your d20 or roll 10 points above the target DC. It means that you have exceptionally succeeded at your attempt and will gain benefits of the GM's choice.
 
 # Health and Stress
 Characters in RampartRPG have two stats that describe their overall welfare and the status of their mind and body: Hit Points and Stress
