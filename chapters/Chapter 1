@@ -64,6 +64,10 @@ so in this section we'll simply cover the basics you need to know about Stress f
 In Rampart, Stress is usually obtained when casting Magical Abilities, which have Stress costs attached to them. This makes Stress a highly important stat for magic users, especially in the early game, where they won't have too much WIL.
 For further details on Stress and it's consequences on your character, please refer to Chapter C pg. D
 
+# Speed
+Another stat that you might want to think of when creating your character is speed, which determines how far your character can move in a single turn of Combat which lasts about one minute.
+The only use for it isn't in Combat, however as it could also be used in something like a chase scene during Exploration.
+To determine your character's Speed use this formula: 25ft + (5ft * Your AGI modifier)
 
 # Backgrounds
 Backgrounds are the history of your character that encompass various things such as where they came from or what they were doing previously in their lives.
