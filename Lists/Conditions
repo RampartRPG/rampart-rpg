@@ -7,14 +7,14 @@
 [Physical]
 # Slowed: Slowed characters can only take 2 actions in their turns instead of 3 and their SPEED is halved.
 # Blinded: Blinded characters can't rely on their sight for any checks, and gain a -4 to all attack rolls.
-# Deafened: Defeaned characters can't rely on their hearing for any checks and gain a -1 to their AC.
+# Deafened: Deafened characters can't rely on their hearing for any checks and gain a -1 to their AC.
 # Restrained: Restrained characters can't use the move, dash or disengage actions.
 # Bleeding: Bleeding characters take 1d4 damage at the start of their turns and gain a -2 to their MGT based rolls.
 # Poisoned: Poisoned characters take 1d4 damage at the start of their turns and can't heal by any means.
 # Burning: Burning characters take 1d4 damage at the start of their turns and gain a -1 to their AC.
 # Frozen: Frozen characters take 1d4 damage at the start of their turns and can only perform 2 actions.
-# Shocked: Shocked characters take 1d4 damage at the start of their turns and gain a -1 to all rolls.
-
+# Shocked: Shocked characters take 1d4 damage at the start of their turns and gain a -1 to all rolls. (maybe remove damage over time and change effect)
+*The damage over time effects of Bleed, Poison, Burn and Freeze can be stacked with each new stack of damage having a Difficulty Rating that is 5 higher than the previous one and increasing the hit die by 1 (for example: 1d4 increases to 1d6)
 [Mental]
 # Charmed: Charmed characters can't attack or bring harm to the one who charmed them.
 # Intimidated: Intimidated characters can't move towards the source of their fear.
