@@ -21,15 +21,4 @@
 # Enraged: Enraged characters gain a -3 to their attack rolls but a +3 to their damage rolls.
 # Taunted: Taunted characters can't attack any other character than the one who taunted them.
 
-  Weapon Conditions:
-
-# Broken: Broken weapons deal half their usual damage.
-# Destroyed: Destroyed weapons can not deal any damage.
-# Sharpened: Sharpened weapons gain a +1 to their attack rolls. (Only usable on melee weapons which can feasibly be sharpened.)
-
-How to gain weapon conditions:
-# Gaining Broken: Your weapon can break from a variety of attacks inflicted on it from enemies and also from making a *power strike*.
-# Gaining Destroyed: Your weapon can be destroyed only if its already broken and receives an attack which attempts to break your weapon or you make a *power strike* with it.
-# Gaining Sharpened: You can sharpen a weapon with the use of a *Whetsone*, *Sharpening Kit*, *Grindstone* or a subsitute item,
-and a successful DC10 Smithing, Crafting, Tinkering or another appropiate skill check. This takes 1 action during combat.
 
