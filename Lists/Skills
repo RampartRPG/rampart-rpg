@@ -21,43 +21,35 @@ Mastered:  +6
 
 List of Example Skills with Relavent Attributes:
 
-  Might Based Abilities:
-Athletics: The ability to endure prolonged feats of strength.
-Intimidation: The ability to intimidate another.
-Riding: The ability to ride another creature.
+  Might Based Skills:
+Athletics: The skill to endure prolonged feats of strength.
+Intimidate: The skill to intimidate another.
+Riding: The skill to ride another creature.
+---
 
-  Agility Based Abilities:
-Stealth: The ability to sneak past enemies or hide.
-Acrobatics: The ability to execute jumps, backflips, and safe landings.
-Sleight of Hand: The ability to perform hand trickery and thievery.
-Lockpicking: The ability to pick locks.
+  Agility Based Skills:
+Stealth: The skill to sneak past enemies or hide.
+Acrobatics: The skill to execute jumps, backflips, and safe landings.
+Sleight of Hand: The skill to perform hand trickery and thievery.
+Lockpicking: The skill to pick locks.
 
-  Will Based Abilities:
-Craft: The ability to craft items from resources.
-Medicine: The ability to apply medical kits and first aid.
-Alchemy: The ability to brew potions, poisons, and elixirs.
-Survival: The ability to survive in the wild.
-Navigation: The ability to find locations.
-Forage: The ability to find food in nature.
-Lore __ : Knowledge of a certain topic.
-Perceive: The ability to perceive your surroundings.
-Investigate: The ability to closely inspect closed spaces.
-Insight: The ability to gather ideas about another.
-Tactics: The ability to make strategy and plans for battle.
-Spellcraft: The ability to craft scrolls.
-Research: The ability to gather information from books.
-Smithing: The ability to smith weapons and armor.
+  Will Based Skills:
+Craftsmanship: The skill to craft items from resources.
+Medicine: The skill to apply medical kits and first aid.
+Alchemy: The skill to brew potions, poisons, and elixirs.
+Survival: The skill to survive in the wild.
+Lore of __: Knowledge of a certain topic.
+Perceive: The skill to perceive your surroundings.
+Investigate: The skill to closely inspect closed spaces.
+Insight: The skill to gather ideas about another.
 
-  Presence Based Abilities:
-Persuade: The ability to persuade another.
-Deceive: The ability to deceive another.
-Intimidation: The ability to intimidate another.
-Performance: The ability to perform musical instruments, dances, and such.
-Disguise: The ability to make and use a disguise.
-Perform: The ability to perform musical instruments, dances, and such.
-Streetwise: The ability to converse with low society.
-Diplomacy: The ability to form alliances and make agreements.
-Animal Handling: The ability to make animals listen to you.
+  Presence Based Skills:
+Persuade: The skill to persuade another.
+Deceive: The skill to deceive another.
+Frighten: The skill to scare another.
+Disguise: The skill to make and use a disguise.
+Perform: The skill to perform musical instruments, dances, and such.
+Animal Handling: The skill to make animals listen to you.
 
 
 
