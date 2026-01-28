@@ -22,5 +22,3 @@
 # Taunt (1): Attempt to focus the attention of the enemy on yourself. Roll a PRS check against their WIL, on a success the target will focus their attention on you for 1 round.
 # Disarm (2): Attempt to make an enemy drop their weapon. Roll a FIN check against their FIN, on a success the target drops one of their weapons to the ground.
 # Push (1): Attempt to push an enemy away or drop them on the ground. Roll a MGT check against their MGT, on a success the target is pushed away 5ft.
-# Power Strike (1): You deal double the damage you normally would to an enemy but your weapon gains the Broken condition or the Destroyed condition if it's already broken.
-
