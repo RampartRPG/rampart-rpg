@@ -6,11 +6,9 @@
 # Cast (1-3): Use one of your abilities or a spell. 
 # Interact (1): Draw or stow a weapon, interact with the enviroment or throw an item.
 # Defend (1): You brace yourself for a hit. Raise your AC by +1 until your next turn.
-# Ready (1): Prepare an action to trigger later in response to a specific condition being met at any point in this round of combat.
+# Ready (1-3): Prepare an action to trigger later in response to a specific condition being met at any point in this round of combat.
 # Use Item (1): Use an item in your inventory, drink a potion, use a scroll.
 # Search (1): Actively look for traps, secret doors, or weaknesses. Roll a WIL saving throw with DC appropriate for the situation. You discover something about the enviroment or the enemy.
-# Aid (1): Help an ally with an action whose turn is right after yours. Add a +2 one roll your ally next in turn is going to make.
-# Take Cover (1): Attempt to gain cover with an object increasing your AC against enemies who lose their sight of you by +2.
 
   Battle Actions
 # Manevuer (1-3): Perform a special melee or ranged weapon attack unique to a weapon.
