@@ -1,0 +1,66 @@
+
+  Resting
+
+Resting is an activity done inbetween adventures, It serves many purposes such as relieving stress, restoring HP and many more. It involves the player characters sleeping or laying down.
+In RampartRPG there are two methods of resting:
+
+1) Half-Rest: A half-rest takes 2-4 hours of in-game time. Players rest in hostile or unsuitable areas, without proper bedding.
+Requirements to take a half-rest:
+
+- There must be no hostile creatures near the players.
+- Players must have a surface to sleep or lay down on.
+- Players must be in enviroment that allows for survival: no extreme heat or cold. If they are not they can light a campfire or find a shade to go around this restriction.
+- Each player needs half a day's worth of rations with them, these are consumed upon a half-rest.
+- Each player needs half a day's worth of water with them, these are consumed upon a half-rest.
+- Players must rest for 2-4 hours of in-game time if this period is broken they take no benefits from the half-rest.
+- Players can have at most two half-rests in a single day.
+
+If all of these conditions are met and the players choose to rest the following happens:
+
+-Players regain HP equal to half their max HP.
+-Players lose Stress Points equal to a quarter of their Stress Threshold.
+-Players regain any abilites that have an half-rest cooldown.
+
+1) Full-Rest: A full-rest takes 6-8 hours of in-game time. Players rest in adequate areas, with proper bedding.
+Requirements to take a full-rest:
+
+- There must be no hostile creatures near the players.
+- Players must have some form of bed to sleep or lay down on.
+- Players must be either indoors, inside a tent or inside a sleeping bag of some kind.
+- Players must be in enviroment that allows for survival: no extreme heat or cold. If they are not they can light a campfire or find a shade to go around this restriction.
+- Each player needs one day's worth of rations with them, these are consumed upon a full-rest.
+- Each player needs one day's worth of water with them, these are consumed upon a full-rest.
+- Players must rest for 6-8 hours of in-game time if this period is broken it is instead counted as a half-rest.
+Players can have at most one full-rest in a single day.
+
+If all of these conditions are met and the players choose to rest the following happens:
+
+-Players regain all of their HP.
+-Players lose Stress Points equal to half of their Stress Threshold.
+-Players regain any abilites that have an half-rest cooldown.
+-Players regain any abilites that have an full-rest cooldown.
+
+
+  Hunger, Thirst and Rations
+
+Hunger and thirst are invisible mechanics in RampartRPG, there are no hard hunger or thirst meters for each player.
+Instead rations and water are needed in order to rest. This ties hunger and thirst into the adventuring bits without it being tedious.
+Each player can only carry with them 5 + MGT Modifier bags of rations. A bag of rations contains half a day's worth of rations.
+Each player can only carry with them 5 + MGT Modifier jugs of water. A jug of water contains half a day's worth of water.
+These are consumed upon rest, but they are easy to renew if the players are not in dungeons or other high-stakes enviroments.
+In cities players can simply purchase rations with gold and in the wilderness they can hunt and forage with a NATURE skill check.
+As for water players do not need to have jugs of water with them while inside cities and towns it is assumed that there is a safe source of drinkable water nearby.
+Players can refill all of their water jugs near a clean water source and cities count here too.
+If the players rest near a lake or a running source of water it won't consume any jugs of water.
+And if they rest near a swamp or a bog a running campfire is enough to purify it once again it won't consume any jugs of water.
+Hunger and thirst act as a soft roadblock forcing the players to stop by towns instead mindlessly adventuring for days or heading into a dungeon unprepared.
+
+
+
+
+
+
+
+
+
+
