@@ -10,21 +10,27 @@ AGI
 WIL
 PRS
 
-1) MGT (Beefcake)
-2) AGI (Scout)
-3) WIL (Occultist)
-4) PRS (Heartbreaker)
+1) MGT (Beefcake) : 
+2) AGI (Scout) : +4 to initiative rolls (gain the first move in most battles, also update initiative to include idea)
+3) WIL (Occultist) : +1 Spell slot + something
+4) PRS (Heartbreaker) : +1 to relation/reputation for neutral (0) npcs
 
-5) MGT / AGI (Veteran)
-6) MGT / WIL (Spellblade)
-7) MGT / PRS (Captain)
-8) AGI / WIL (Trickster)
-9) AGI / PRS (Crook)
-10) WIL / PRS (Thaumaturge)
+5) MGT / AGI (Veteran) : +1 to multiple attack penalties (from -3 to -2 and -7 -6 respectively)
+6) MGT / WIL (Spellblade) : You can use a martial weapon as your conduit. This weapon now does magical damage. Write martial weapon conduit bonus here:
+7) MGT / PRS (Captain) : If the captain passes their turn to another teammate during battle, they receive +x bonus to their next roll.
+8) AGI / WIL (Trickster) : 
+9) AGI / PRS (Crook) : +X bonus to bartering rolls
+10) WIL / PRS (Thaumaturge) : 
 
-11) MGT / AGI / WIL ()
-12) MGT / AGI / PRS
-13) MGT / WIL / PRS
-14) AGI / WIL / PRS
+11) MGT / AGI / WIL (Outcast) : 
+12) MGT / AGI / PRS (Mercenary) : 
+13) MGT / WIL / PRS (Militia)
+14) AGI / WIL / PRS (Magician)
 
-15) MGT / AGI / WIL / PRS (Jack of All Trades)
+15) MGT / AGI / WIL / PRS (Jack of All Trades) : +1 to all ability checks
+
+Add Animal/NPC/Enemy archetypes
+
+----------------------------------
+Faction and personal relation based reputation system like caves of qud:
+7 degrees of like/dislike (-3 to +3)
