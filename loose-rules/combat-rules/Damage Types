@@ -1,2 +1,22 @@
-Magical and Physical Damage Split
-Characters can have a resistence or an immunity to a certain type of attack.
+Damage Types
+
+In RampartRPG any type of damage can be categorized into two separate types with respect to their sources:
+
+1) Physical Damage: Damage which occurs as a result of a physical force or another force of nature:
+A sword cleaving someone in two, an arrow piercing a person, someone burning from being thrown into a campfire etc.
+
+2) Magical Damage Damage which occurs as a result of spells, magical abilities, magical creatures or objects enchanted with magical properties:
+A fireball spell hitting a target, a magical sword slashing an opponent etc.
+
+The source of the damage is the ultimate arbiter of its type as in:
+Spells always do magical damage unless its specifically stated otherwise,
+And all physical sources of damage be it weapons, enviromental objects or players themselves always do physical damage unless its stated otherwise.
+Spells can cause weapons to be enchanted letting them to magical damage instead of physical damage.
+Spells can also cause enviromental effects which trigger physical damage in the cases where its unclear the GM should pick one and stick to it.
+
+Creatures can have a resistence or an immunity to a one or both of these damages albeit they are are rare.
+Resistance: If a creature is resistant to a certain type of damage hitting them with that damage causes it to deal half damage. The damage is halved after damage absorption is calculated.
+Immunity: Creatures which are immune to a certain type of damage do not take any damage from hits dealing this type of damage.
+
+Certain spells, abilites or items may grant resistances or immunites to a character.
+Since resistances and immunities completely change the nature of a battle its advised to use them sparingly.
