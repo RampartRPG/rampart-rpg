@@ -1,0 +1,29 @@
+Initiative
+
+In RampartRPG the game switches from Exploration mode to Combat Mode through the use of an Initiatve Roll
+Initiative is used to determine which side goes first in combat and who specifically acts first.
+
+When a combat scenario begans every character in each side rolls an initiative check. Initiative Check = D20 + [INT]
+The character with the highest roll gets to act first. When they finish their turn they can choose someone from their own side to pass the turn to.
+When the person they choose finishes their turn, they get to pick the person who's going to act next. They can not pick someone who has already had their turn.
+When every character from one side has had finished their turn, the surviving person who rolled highest on the opposing side acts.
+Similarly they pass their turns to characters on their side and so on and so forth.
+When the opposing side finishes the loop simply restarts with the person who rolled highest on the initiative check.
+They get to pick who goes after them again, they can choose the same character or a different character.
+
+Surprise
+
+If a party was attacked without their knowledge such as a surprise attack both sides still roll initiative.
+The side which had the element of surprise goes first no matter what, the initiative roll's purpose is to decide who goes first in each side.
+The characters with the highest respective rolls still act first when its their side's turn.
+
+Late Joiners
+
+If new combatants join an ongoing battle, they are simply added to the side they are fighting on without the need of an initiative check.
+If its currently their side's turn, allies can immediately pick this new character to act after them.
+If its currently the opposing side's turn, the late joiner must wait until the loop restarts and it's their side's turn to act again.
+
+This system allows for tactical depth where players can discuss ideas, create combos and alter the fate of a battle.
+Its also easier for both the GM and the players since the GM won't have their turn until all the players finish and vice verse.
+Since sides aren't being interrupted it feels smoother for both parties.
+
