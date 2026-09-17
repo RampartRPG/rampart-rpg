@@ -1,0 +1,40 @@
+  Status Effects
+
+Status effects are conditions applied to characters strictly in combat.
+Each status effect typical lasts for 4 rounds in combat but they can be cleared earlier by different methods.
+It is assumed that all status effects are cleared upon exiting combat.
+
+[Physical]
+# Slowed: Slowed characters can only take 2 actions in their turns instead of 3 and their SPEED is halved.
+# Blinded: Blinded characters can't rely on their sight for any checks, and gain a -4 to all attack rolls.
+# Deafened: Deafened characters can't rely on their hearing for any checks and gain a -2 to their EV.
+# Restrained: Restrained characters can't use the move, dash or disengage actions.
+
+[Mental]
+# Charmed: Charmed characters can't attack or bring harm to the one who charmed them.
+# Intimidated: Intimidated characters can't move towards the source of their fear.
+# Enraged: Enraged characters gain a -3 to their attack rolls but a +3 to their damage rolls.
+# Taunted: Taunted characters can't attack any other character than the one who taunted them.
+
+# Physical and Mental status effects can be cleared by using the (Clear Status Effect) action.
+
+[Damage Over Time]
+# Bleeding: Bleeding characters take 1d4 damage at the start of their turns and gain a -3 to their MGT based rolls.
+- Using a bandage, cloth or regaining HP by any means cleares Bleeding.
+# Poisoned: Poisoned characters take 1d4 damage at the start of their turns and can't heal by any means.
+- Using an antidote, herbalism kit or any health potion clears Poisoned.
+# Burning: Burning characters take 1d4 damage at the start of their turns and gain a -1 to their AC.
+- Jumping in a source of water or using the (Clear Status Effect) action clears Burning.
+# Frozen: Frozen characters take 1d4 damage at the start of their turns and can only perform 2 actions.
+- Being near a lit flame for 1 round clears Frozen.
+# Shocked: Shocked characters take 1d4 damage at the start of their turns and gain a -1 to all rolls.
+- Using the (Clear Status Effect) action clears Shocked.
+
+# The damage over time effects of Bleeding, Poisoned, Burnning, Frozen and Shocked can not be stacked with themselves attempting to do so only prolongs the status effect.
+
+[Special]
+# Unconscious: Unconscious characters can't use any actions, and are completely unaware of their surroundings.
+- Cleared by exiting combat or by magical means.
+# Dying: Dying characters can only perform the Prevent Death action.
+- A successful death save clears Dying.
+
