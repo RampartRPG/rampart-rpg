@@ -1,0 +1,60 @@
+
+  Archetypes are tools meant to help with character creation. They give a rough idea of what type of character you'll end up with
+by looking at your attribute distribution. It does this by classifying your character's attributes into two categories:
+
+# Primary Attributes: Your highest attribute and the ones which are within 2 points of it.
+# Secondary Attributes: Attributes which are not within 2 points of your highest one.
+
+  Depending on the specific combination of primary attributes your character has they will gain an archetype.
+These combinations are written next to their names. Each attribute also gives your character a specific attribute trait.
+These can range from widely useful to highly specific but each of them provide a real, tangible benefit to your character.
+
+  Your character's archetype might change as your character levels up and increases their attributes.
+This will change your archetype trait so you ought to be careful when planning your stat increases.
+
+List of Archetypes:
+
+# Beefcake (MGT):
+# Natural Defense: If you’re unarmored or lightly armored add your MGT modifier to your DR. When you’re heavily armored add half your MGT modifier rounded down to your DR.
+
+# Scout (AGI):
+# Sharp Reflexes: You have double-advantage on every initiative roll you make.
+
+# Occultist (WIL):
+# Natural Spellcaster: You gain an additional spell every time you gain one through level up and character creation.
+
+# Heartbreaker (PRS):
+# Charming Charisma: You have advantage on every Persuade and Deceive skill check you make.
+
+# Veteran (MGT/AGI):
+# Battle Master: Your multiple attack penalty is reduced from -5/-10 to -4/-8 but only for melee weapons.
+
+# Spellblade (MGT/WIL):
+# Weapon Conduit: You can use any weapon as your magical conduit. This weapon now deals magical damage.
+
+# Captain (MGT/PRS):
+# Team Player: When you pass your turn to a teammate during battle, they gain advantage on the next roll they make.
+
+# Trickster (AGI/WIL):
+# Quick Feet: Your movement speed is increased by 10ft and in turn your swimming and climbing speed are increased by 5ft. And the disengage action costs only 1 action point.
+
+# Assassin (AGI/PRS):
+# Backstab: Any attack roll you make that succeeds against an enemy which either hasn’t noticed you or has their back turned to you is treated as a critical hit.
+
+# Shaman (WIL/PRS):
+# Primal Form: You can transform into an animal form of your choosing from the list below with the use of an action. Detail it further
+
+# Outlander (MGT/AGI/WIL):
+# Relentless: After taking down an enemy you regain d4 + MGT points of health.
+
+# Sharpshooter (MGT/AGI/PRS):
+# Steady Aim: If you do not move in your turn on your next one you gain advantage on every ranged attack you make.
+
+# Combatant (MGT/WIL/PRS):
+# Unarmed Offense: Your unarmed strike deals d8 damage instead of 1. Your unarmed strike gains the finesse trait and it does not incur a multiple attack penalty.
+
+# Magician (AGI/WIL/PRS):
+# Calm Mind: During half-rests you additionally lose stress points equal to half your WIL modifier rounded down. During fullürests you additionally lose stress points equal to your WIL modifier.
+
+# Jack of All Trades (WIL/AGI/WIL/PRS):
+# Still Better Than Master of One: You gain a +1 to every roll you make.
