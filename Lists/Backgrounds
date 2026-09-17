@@ -3,106 +3,23 @@ Backgrounds are what your character was doing before they became an adventurer a
 Pick from the list below or roll a d20 and leave your character's profession in the hand's of fate (Its more fun this way)
 
 List of Backgrounds:
-
-1) Slave
-# Skill: Athletics
-# Items: Knife (Rusty), Broken Shackles
-# Money: 1d4 * 10 Gold
-
-2) Soldier
-# Skill: Intimidate
-# Items: Spear
-# Money: 3d4 * 10 Gold
-
-4) Urchin
-# Skill: Acrobatics
-# Items: Shortsword, Cloak
-# Money: 1d4 * 10 Gold
-
-5) Thief
-# Skill: Sleight of Hand
-# Items: Knife, Rope
-# Money: 2d4 * 10 Gold
-
-6) Outlaw
-# Skill: Lockpick
-# Items: Dagger, Lockpicking Tools
-# Money: 2d4 * 10 Gold
-
-7) Craftsman
-# Skill: Craft
-# Items: Hammer, Crafting Kit
-# Money: 3d4 * 10 Gold
-
-8) Healer
-# Skill: Medicine
-# Items: Medical Kit
-# Money: 3d4 * 10 Gold
-
-9) Alchemist
-# Skill: Alchemy
-# Items: Blowgun, Brewing Kit
-# Money: 2d4 * 10 Gold
-
-10) Beggar
-# Skill: Survival
-# Items: Slingshot, Rope, 2d4 + 2 Pebbles
-# Money: 1d4 * 10 Gold
-
-11) Student
-# Skill: Lore (__)
-# Items: Knife (Ceremonial), Writing Kit
-# Money: 2d4 * 10 Gold
-
-12) Hunter 
-# Skill: Perceive
-# Items: Hunting Bow, Trap Kit, Quiver
-# Money: 2d4 * 10 Gold
-
-13) Watch
-# Skill: Investigate
-# Items: Short Bow, Magnifying Glass
-# Money: 2d4 * 10 Gold
-
-14) Traveler
-# Skill: Persuade
-# Items: Axe, 3 Packs of Rations
-# Money: 3d4 * 10 Gold
-
-15) Swindler
-# Skill: Deceive
-# Items: Set of playing cards and die
-# Money: 3d4 * 10 Gold
-
-16) Outcast
-# Skill: Frighten
-# Items: Bird (Companion)
-# Money: 1d4 * 10 Gold
-
-17) Actor
-# Skill: Disguise
-# Items: Disguise Kit
-# Money: 2d4 * 10 Gold
-
-18) Entertainer 
-# Skill: Perform
-# Items: Whip, An Instrument
-# Money: 2d4 * 10 Gold
-
-19) Shepherd
-# Skill: Handle Animals
-# Items: Staff, Dog (Companion)
-# Money: 1d4 * 10 Gold
-
-20) Peasant
-# Skill: Insight
-# Items: Sickle, Torch
-# Money: 1d4 * 10 Gold
-
-21) Custom Background
-# Skill: Any skill you choose
-# Items: One flavor item and one weapon from the starting list
-# Money: No Money
-
-
-
+1) Slave: Athletics / Knife, Broken Shackles / 1d4×10g
+2) Soldier: Intimidate / Spear / 3d4×10g
+3) Urchin: Acrobatics / Shortsword, Cloak / 1d4×10g
+4) Thief: Sleight of Hand / Dagger, Rope / 2d4×10g
+5) Outlaw: Lockpick / Handaxe, Lockpicking Kit / 2d4×10g
+6) Craftsman: Craft / Hammer, Crafting Kit / 3d4×10g
+7) Healer: Medicine / Medical Kit / 3d4×10g
+8) Alchemist: Alchemy / Blowgun, Alchemy Kit / 2d4×10g
+9) Beggar: Survival / Slingshot, Torch / 1d4×10g
+10) Student: Lore / Writing Kit / 4d4×10g
+11) Hunter: Perceive / Hunting Bow, Trap Kit / 1d4×10g
+12) Watch: Investigate / Shortbow, Magnifying Glass / 2d4×10g
+13) Traveler: Persuade / Javelin, 3 Packs of Rations / 3d4×10g
+14) Swindler: Deceive / Knuckles, Set of Playing Cards / 3d4×10g
+15) Outcast: Frighten / Club / 2d4×10g
+16) Actor: Disguise / Disguise Kit / 3d4×10g
+17) Entertainer: Perform / Whip, Any Instrument / 2d4×10g
+18) Shepherd: Handle Animals / Quarterstaff, Dog (Companion) / 1d4×10g
+19) Peasant: Insight / Sickle, Sling / 1d4×10g
+20) Custom: Any Skill / One flavor and one weapon item from the starting list / 2d4×10g
